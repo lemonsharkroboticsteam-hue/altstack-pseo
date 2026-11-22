@@ -6,7 +6,8 @@ export const SITE_DESCRIPTION =
 
 export function getSiteUrl(): string {
   const raw =
-    process.env.NEXT_PUBLIC_SITE_URL?.trim() || "https://altstack.pages.dev";
+    process.env.NEXT_PUBLIC_SITE_URL?.trim() ||
+    "https://altstack-pseo.lemonsharkroboticsteam.workers.dev";
   return raw.replace(/\/+$/, "");
 }
 
