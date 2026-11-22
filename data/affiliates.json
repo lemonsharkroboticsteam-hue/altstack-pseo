@@ -1,0 +1,135 @@
+{
+  "notion": {
+    "affiliateUrl": "https://www.notion.so/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Notion Free",
+    "dealBadge": "Free Plan Available",
+    "promoNote": "Unlimited pages for individuals",
+    "isAffiliateActive": false
+  },
+  "midjourney": {
+    "affiliateUrl": "https://www.midjourney.com/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Start Midjourney",
+    "dealBadge": "From $10/mo",
+    "promoNote": "Save 20% with annual billing",
+    "isAffiliateActive": false
+  },
+  "cursor": {
+    "affiliateUrl": "https://www.cursor.com/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Download Cursor Free",
+    "dealBadge": "Free Tier Included",
+    "promoNote": "AI code editor for Mac, Win & Linux",
+    "isAffiliateActive": false
+  },
+  "jasper": {
+    "affiliateUrl": "https://www.jasper.ai/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Start 7-Day Free Trial",
+    "dealBadge": "7-Day Free Trial",
+    "promoNote": "Brand voice & marketing agents",
+    "isAffiliateActive": false
+  },
+  "perplexity": {
+    "affiliateUrl": "https://www.perplexity.ai/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Perplexity Free",
+    "dealBadge": "Free Search + Citations",
+    "promoNote": "Pro starts at $20/mo",
+    "isAffiliateActive": false
+  },
+  "chatgpt": {
+    "affiliateUrl": "https://chatgpt.com/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Use ChatGPT Free",
+    "dealBadge": "Free Forever Tier",
+    "promoNote": "Plus available at $20/mo",
+    "isAffiliateActive": false
+  },
+  "claude": {
+    "affiliateUrl": "https://claude.ai/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Claude Free",
+    "dealBadge": "Free Plan + Claude Code",
+    "promoNote": "Pro $17/mo billed annually",
+    "isAffiliateActive": false
+  },
+  "obsidian": {
+    "affiliateUrl": "https://obsidian.md/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Download Obsidian Free",
+    "dealBadge": "100% Free Core App",
+    "promoNote": "Local-first Markdown notes",
+    "isAffiliateActive": false
+  },
+  "clickup": {
+    "affiliateUrl": "https://clickup.com/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Get ClickUp Free",
+    "dealBadge": "Free Forever Plan",
+    "promoNote": "Unlimited tasks & users",
+    "isAffiliateActive": false
+  },
+  "linear": {
+    "affiliateUrl": "https://linear.app/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Start Using Linear Free",
+    "dealBadge": "Free Up to 250 Issues",
+    "promoNote": "Built for high-velocity teams",
+    "isAffiliateActive": false
+  },
+  "coda": {
+    "affiliateUrl": "https://coda.io/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Coda Free",
+    "dealBadge": "Pay Only for Doc Makers",
+    "promoNote": "Editors & viewers join free",
+    "isAffiliateActive": false
+  },
+  "windsurf": {
+    "affiliateUrl": "https://windsurf.com/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Download Windsurf Free",
+    "dealBadge": "Unlimited Tab Autocomplete",
+    "promoNote": "Free tier + $20/mo Pro",
+    "isAffiliateActive": false
+  },
+  "github-copilot": {
+    "affiliateUrl": "https://github.com/features/copilot?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try GitHub Copilot Free",
+    "dealBadge": "Free Tier & $10 Pro",
+    "promoNote": "Free for verified students",
+    "isAffiliateActive": false
+  },
+  "copy-ai": {
+    "affiliateUrl": "https://www.copy.ai/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Explore Copy.ai",
+    "dealBadge": "GTM AI Workflows",
+    "promoNote": "Chat plan from $29/mo",
+    "isAffiliateActive": false
+  },
+  "ideogram": {
+    "affiliateUrl": "https://ideogram.ai/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Create on Ideogram Free",
+    "dealBadge": "Free Credits Included",
+    "promoNote": "Best-in-class image typography",
+    "isAffiliateActive": false
+  },
+  "flux": {
+    "affiliateUrl": "https://blackforestlabs.ai/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Explore FLUX Models",
+    "dealBadge": "Open Weights + API",
+    "promoNote": "From ~$0.003/image via API",
+    "isAffiliateActive": false
+  },
+  "adobe-firefly": {
+    "affiliateUrl": "https://www.adobe.com/products/firefly.html?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Adobe Firefly Free",
+    "dealBadge": "Commercially Safe AI",
+    "promoNote": "Free credits + Creative Cloud sync",
+    "isAffiliateActive": false
+  },
+  "asana": {
+    "affiliateUrl": "https://asana.com/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Start Asana Free",
+    "dealBadge": "Free Personal Tier",
+    "promoNote": "Starter from $10.99/user/mo",
+    "isAffiliateActive": false
+  },
+  "you-com": {
+    "affiliateUrl": "https://you.com/?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Search with You.com",
+    "dealBadge": "Multi-Model Search",
+    "promoNote": "API & team research tools",
+    "isAffiliateActive": false
+  }
+}

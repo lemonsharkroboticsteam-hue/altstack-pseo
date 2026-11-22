@@ -1,0 +1,1384 @@
+[
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "tagline": "Connected AI workspace for wikis, docs, databases, and project management",
+    "description": "Notion unifies team wikis, structured relational databases, project tracking, and built-in Notion AI agents into a single modular workspace.",
+    "category": "Workspace & Knowledge Base",
+    "officialUrl": "https://www.notion.so",
+    "pricingModel": "Freemium (Per Seat)",
+    "startingPrice": "$10/user/mo",
+    "startingPriceNumber": 10,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Free forever for individuals",
+        "highlights": [
+          "Unlimited blocks for solo users",
+          "7-day page history & 5 MB file limit",
+          "Limited Notion AI trial"
+        ]
+      },
+      {
+        "name": "Plus",
+        "price": "$10/user/mo",
+        "billingNote": "Billed annually ($12 monthly)",
+        "highlights": [
+          "Unlimited blocks for teams",
+          "Unlimited file uploads & 30-day history",
+          "Custom forms, sites & unlimited guests"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "$20/user/mo",
+        "billingNote": "Billed annually ($24 monthly)",
+        "highlights": [
+          "Full Notion AI (Q&A, agents & connectors)",
+          "SAML SSO & private teamspaces",
+          "90-day page history"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "billingNote": "Annual contract",
+        "highlights": [
+          "Audit logs & advanced security",
+          "Dedicated customer success",
+          "Custom data retention controls"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Relational databases with Table, Board, Timeline, and Calendar views",
+      "Bundled Notion AI Q&A, agents, and workspace connectors in Business",
+      "Modular block editor for wikis, specs, and public Notion Sites",
+      "Granular workspace and page-level permissions",
+      "Extensive template marketplace and API automations"
+    ],
+    "pros": [
+      "Unmatched flexibility to model wikis, CRM pipelines, and roadmaps in one place",
+      "Notion AI is bundled into Business rather than sold strictly as an expensive add-on",
+      "Clean, collaborative real-time editing with massive template ecosystem"
+    ],
+    "cons": [
+      "Can feel slow or laggy on massive databases with thousands of rows",
+      "Cloud-only lock-in without native offline local-first Markdown storage",
+      "Full Notion AI features require upgrading to the $20/user/mo Business tier"
+    ],
+    "bestFor": "Cross-functional product, ops, and startup teams consolidating docs and lightweight project tracking",
+    "platforms": ["Web", "macOS", "Windows", "iOS", "Android"],
+    "rating": 4.7,
+    "reviewCount": 6420,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["notion.so", "getpricepulse.com", "coworker.ai"]
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "tagline": "Industry-leading AI image generator prized for artistic fidelity and cinematic aesthetics",
+    "description": "Midjourney produces hyper-detailed, stylistically rich visual artwork, concept illustrations, and photorealistic renders via web and Discord.",
+    "category": "AI Image Generation",
+    "officialUrl": "https://www.midjourney.com",
+    "pricingModel": "Paid Subscription (Fast GPU Hours)",
+    "startingPrice": "$10/mo",
+    "startingPriceNumber": 10,
+    "hasFreeTier": false,
+    "pricingTiers": [
+      {
+        "name": "Basic",
+        "price": "$10/mo",
+        "billingNote": "$8/mo billed annually",
+        "highlights": [
+          "~3.3 Fast GPU hours (~200 minutes/mo)",
+          "Web & Discord image generation",
+          "No Relax mode or Stealth mode"
+        ]
+      },
+      {
+        "name": "Standard",
+        "price": "$30/mo",
+        "billingNote": "$24/mo billed annually",
+        "highlights": [
+          "15 Fast GPU hours/month",
+          "Unlimited Relax mode image generations",
+          "Commercial usage terms included"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$60/mo",
+        "billingNote": "$48/mo billed annually",
+        "highlights": [
+          "30 Fast GPU hours/month",
+          "Unlimited Relax image & video generations",
+          "Stealth Mode for private generations"
+        ]
+      },
+      {
+        "name": "Mega",
+        "price": "$120/mo",
+        "billingNote": "$96/mo billed annually",
+        "highlights": [
+          "60 Fast GPU hours/month",
+          "Maximum concurrent fast jobs",
+          "Stealth Mode & Unlimited Relax"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Best-in-class artistic lighting, texture, and cinematic composition",
+      "Style reference (--sref) and character consistency controls",
+      "Dedicated web creation studio alongside Discord workflows",
+      "Unlimited Relax mode on Standard, Pro, and Mega tiers",
+      "Inpainting, pan/zoom outpainting, and upscaling tools"
+    ],
+    "pros": [
+      "Unrivaled out-of-the-box aesthetic quality and cinematic mood",
+      "Unlimited Relax generation on the $30/mo Standard tier gives great value for heavy creators",
+      "Strong style reference and visual personalization tuning"
+    ],
+    "cons": [
+      "No free tier available for testing before subscribing",
+      "Private Stealth Mode is locked behind the $60/mo Pro plan or higher",
+      "Typography and exact multi-word text rendering still lag behind Ideogram"
+    ],
+    "bestFor": "Art directors, illustrators, marketers, and studios prioritizing peak visual aesthetics",
+    "platforms": ["Web", "Discord"],
+    "rating": 4.8,
+    "reviewCount": 4890,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["midjourney.com", "felloai.com", "nocode.mba"]
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "tagline": "AI-native code editor built for multi-file codebase editing and autonomous agents",
+    "description": "Cursor forks VS Code to integrate deep codebase indexing, predictive Tab edits, Cloud Agents, and automated Bugbot code reviews directly into the IDE.",
+    "category": "AI Coding & IDE",
+    "officialUrl": "https://www.cursor.com",
+    "pricingModel": "Freemium (Usage Pool Tiers)",
+    "startingPrice": "$8/mo",
+    "startingPriceNumber": 8,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Hobby tier",
+        "highlights": [
+          "Limited chat and agent requests",
+          "Full VS Code extension compatibility",
+          "Basic Tab autocomplete evaluation"
+        ]
+      },
+      {
+        "name": "Plus",
+        "price": "$8/mo",
+        "billingNote": "$80/year billed annually",
+        "highlights": [
+          "Shared weekly usage pool for Cursor coding models",
+          "Fast multi-line Tab predictions",
+          "Codebase-aware inline edits"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "$30/mo",
+        "billingNote": "$300/year billed annually",
+        "highlights": [
+          "~4x usage capacity vs Plus",
+          "Cloud Agents & workflow automations",
+          "Bugbot code reviews & third-party model access"
+        ]
+      },
+      {
+        "name": "Super / Ultra",
+        "price": "$100–$200/mo",
+        "billingNote": "15x to 50x usage capacity",
+        "highlights": [
+          "Priority frontier model routing",
+          "Built for heavy full-time agentic engineering",
+          "Team seats scale $30–$200+/seat/mo"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Multi-file Composer and Cloud Agents for end-to-end feature generation",
+      "Predictive Tab autocomplete that anticipates next cursor jumps and diffs",
+      "Automatic repository vector indexing and @-symbol context pinning",
+      "Built-in Bugbot automated PR and code review checks",
+      "Seamless migration of VS Code themes, keybindings, and extensions"
+    ],
+    "pros": [
+      "Gold-standard UX for multi-file AI editing and rapid prototyping inside a visual IDE",
+      "Instant onboarding for VS Code users with zero extension loss",
+      "Entry Plus plan starts at just $8/mo for casual builders"
+    ],
+    "cons": [
+      "Heavy agentic workflows quickly push developers onto $30–$100+ plans",
+      "Requires switching to a VS Code fork rather than staying in JetBrains or native VS Code",
+      "Third-party model usage on Premium can incur API list-price overages"
+    ],
+    "bestFor": "Software engineers and startup builders shipping production code fast inside a VS Code-style IDE",
+    "platforms": ["macOS", "Windows", "Linux"],
+    "rating": 4.8,
+    "reviewCount": 5310,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["cursor.com", "coworker.ai", "minware.com"]
+  },
+  {
+    "slug": "jasper",
+    "name": "Jasper",
+    "tagline": "Enterprise AI marketing platform with brand voice enforcement and campaign agents",
+    "description": "Jasper helps marketing teams produce on-brand campaigns, SEO articles, and multi-channel copy using specialized AI agents, Canvas, and Brand Voice guardrails.",
+    "category": "AI Writing & Marketing",
+    "officialUrl": "https://www.jasper.ai",
+    "pricingModel": "Paid Subscription (7-Day Free Trial)",
+    "startingPrice": "$59/mo",
+    "startingPriceNumber": 59,
+    "hasFreeTier": false,
+    "pricingTiers": [
+      {
+        "name": "Pro",
+        "price": "$59/mo",
+        "billingNote": "Billed annually ($69 monthly), 7-day free trial",
+        "highlights": [
+          "1 user seat with unlimited word output",
+          "2 Brand Voices & knowledge assets",
+          "Canvas editor & core marketing agents"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "Custom",
+        "billingNote": "Annual enterprise contract",
+        "highlights": [
+          "Unlimited seats & Brand Voices",
+          "Custom AI marketing workflows & API access",
+          "Enterprise security & dedicated customer success"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Brand Voice ingestion from style guides, URLs, and sample docs",
+      "Visual Canvas workspace tailored to campaign briefs and multi-channel assets",
+      "Purpose-built marketing AI agents for SEO, ads, email, and social",
+      "Team collaboration, approval flows, and knowledge base grounding",
+      "Enterprise API and governance controls"
+    ],
+    "pros": [
+      "Purpose-built for brand consistency across multi-person marketing departments",
+      "Structured campaign workflows save time over blank-page general chatbots",
+      "Unlimited word generation on the Pro plan"
+    ],
+    "cons": [
+      "Expensive ($59–$69/mo) compared to general assistants like ChatGPT or Claude",
+      "No permanent free tier—only a 7-day trial",
+      "Solo bloggers or developers often find general-purpose LLMs more flexible"
+    ],
+    "bestFor": "In-house marketing teams and agencies needing strict Brand Voice compliance across channels",
+    "platforms": ["Web", "Chrome Extension"],
+    "rating": 4.4,
+    "reviewCount": 3180,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["hyperwriteai.com", "seosorted.ai", "layer3labs.io"]
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "tagline": "Real-time AI answer engine delivering sourced research with inline web citations",
+    "description": "Perplexity combines live web crawling with frontier language models to answer complex questions with verifiable inline citations, Deep Research reports, and multi-model selection.",
+    "category": "AI Search & Research",
+    "officialUrl": "https://www.perplexity.ai",
+    "pricingModel": "Freemium (Subscription Tiers)",
+    "startingPrice": "$20/mo",
+    "startingPriceNumber": 20,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Free forever",
+        "highlights": [
+          "Unlimited basic AI search with citations",
+          "Limited daily Pro searches",
+          "Web & mobile app access"
+        ]
+      },
+      {
+        "name": "Education Pro",
+        "price": "$10/mo",
+        "billingNote": "Verified students & educators",
+        "highlights": [
+          "Discounted full Pro research access",
+          "Multi-model selection",
+          "Academic source filtering"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$20/mo",
+        "billingNote": "$200/year (~$17/mo equivalent)",
+        "highlights": [
+          "Extended Deep Research allowances",
+          "Model picker (Claude, GPT, Sonar, etc.)",
+          "Computer app & file analysis access"
+        ]
+      },
+      {
+        "name": "Max / Enterprise",
+        "price": "$40–$200+/mo",
+        "billingNote": "Max $200/mo; Enterprise Pro $40/seat/mo",
+        "highlights": [
+          "10,000 monthly Computer tool credits (Max)",
+          "SOC 2, SSO & zero data training (Enterprise)",
+          "Shared team Spaces & higher rate limits"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Live web-grounded answers with clickable numbered source citations",
+      "Multi-step Deep Research mode for comprehensive market and academic briefs",
+      "Model switcher letting Pro users compare outputs across Claude, GPT, and Sonar",
+      "Shared Spaces for organizing collaborative research threads and uploaded PDFs",
+      "Focus modes for Academic, Social, Finance, and Coding queries"
+    ],
+    "pros": [
+      "Dramatically reduces hallucinations via transparent, verifiable inline citations",
+      "Replaces multi-tab Google searching with synthesized executive summaries",
+      "Pro plan gives access to multiple top AI models inside one search interface"
+    ],
+    "cons": [
+      "Less suited for open-ended creative writing or long coding sessions than Claude or ChatGPT",
+      "Heavy automation users may run into Computer credit caps unless upgrading to Max ($200/mo)",
+      "Occasionally cites SEO-heavy web pages if source filtering isn't tuned"
+    ],
+    "bestFor": "Analysts, founders, students, and knowledge workers doing fast, fact-checked research",
+    "platforms": ["Web", "macOS", "Windows", "iOS", "Android"],
+    "rating": 4.8,
+    "reviewCount": 4750,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["perplexity.ai", "gosearch.ai", "justinmckelvey.com"]
+  },
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "tagline": "All-in-one multimodal AI assistant for reasoning, coding, voice, and image creation",
+    "description": "OpenAI's ChatGPT delivers frontier reasoning models, live web search, data analysis, native image generation, voice mode, and custom GPTs in one ubiquitous workspace.",
+    "category": "General AI Assistant",
+    "officialUrl": "https://chatgpt.com",
+    "pricingModel": "Freemium (Tiered Consumer & Business)",
+    "startingPrice": "$8/mo",
+    "startingPriceNumber": 8,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Free forever",
+        "highlights": [
+          "Everyday chat, web search & Projects",
+          "Standard caps on voice, image gen & analysis",
+          "Access to GPT Store"
+        ]
+      },
+      {
+        "name": "Go",
+        "price": "$8/mo",
+        "billingNote": "Budget entry tier",
+        "highlights": [
+          "Higher everyday message & file upload limits",
+          "Excludes flagship reasoning models",
+          "May include sponsored placements"
+        ]
+      },
+      {
+        "name": "Plus",
+        "price": "$20/mo",
+        "billingNote": "Flagship individual tier",
+        "highlights": [
+          "Flagship reasoning models & Deep Research",
+          "Expanded coding, Canvas & image generation",
+          "Priority access to new voice & agent tools"
+        ]
+      },
+      {
+        "name": "Pro / Business",
+        "price": "$25–$500/mo",
+        "billingNote": "Business $20/user/mo annual; Pro $100–$500/mo",
+        "highlights": [
+          "Pro 100 / 200 / 500 high-volume compute tiers",
+          "Shared Business workspaces & admin controls",
+          "Enterprise SAML SSO & data exclusion guarantees"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Flagship reasoning models paired with real-time web browsing and Deep Research",
+      "Integrated Python code interpreter, spreadsheet analysis, and Canvas editing",
+      "Built-in multimodal image generation and low-latency Advanced Voice Mode",
+      "Projects, Memory, and Custom GPTs for repeatable workflows",
+      "Mature desktop, mobile, and enterprise compliance ecosystem"
+    ],
+    "pros": [
+      "Most versatile generalist AI suite—handles writing, coding, spreadsheets, voice, and images",
+      "New $8/mo Go tier lowers the barrier for everyday paid usage",
+      "Rich Canvas collaboration and Projects organization"
+    ],
+    "cons": [
+      "Writing tone can sound formulaic without careful style prompting",
+      "Top compute allowances require $100–$500/mo Pro tiers",
+      "Web search citations are slightly less structured for pure research than Perplexity"
+    ],
+    "bestFor": "Everyday professionals and teams wanting a single Swiss-army-knife AI subscription",
+    "platforms": ["Web", "macOS", "Windows", "iOS", "Android"],
+    "rating": 4.8,
+    "reviewCount": 14200,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["nocode.mba", "enrichlabs.ai", "fritz.ai"]
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "tagline": "Anthropic's frontier AI renowned for nuanced writing, deep reasoning, and Claude Code",
+    "description": "Claude excels at natural human-like writing, large-context document synthesis, interactive Artifacts, and agentic software development with Claude Code.",
+    "category": "General AI Assistant",
+    "officialUrl": "https://claude.ai",
+    "pricingModel": "Freemium (Usage & Team Tiers)",
+    "startingPrice": "$17/mo",
+    "startingPriceNumber": 17,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Free forever",
+        "highlights": [
+          "Web search, file creation & code execution",
+          "Up to 5 Projects",
+          "Standard usage limits"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$20/mo",
+        "billingNote": "$17/mo billed annually ($200/yr)",
+        "highlights": [
+          "Access to frontier Claude models & Claude Code",
+          "Extended Projects & Artifact workflows",
+          "Priority traffic during peak hours"
+        ]
+      },
+      {
+        "name": "Max",
+        "price": "$100/mo",
+        "billingNote": "5x Pro capacity",
+        "highlights": [
+          "5x weekly usage capacity over Pro",
+          "Pooled monthly API credits",
+          "Heavy Claude Code & document analysis"
+        ]
+      },
+      {
+        "name": "Ultra / Team",
+        "price": "$25–$200/mo",
+        "billingNote": "Ultra $200/mo; Team Standard $20/user/mo annual",
+        "highlights": [
+          "10x usage ceiling on Ultra",
+          "Shared Team spaces & pooled API credits",
+          "Enterprise SCIM, audit logs & HIPAA options"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Natural, high-craft prose quality that avoids robotic AI clichés",
+      "Claude Code terminal agent for multi-file engineering and automated test loops",
+      "Interactive Artifacts previewing React apps, SVG diagrams, and documents live",
+      "Large context window ideal for long PDFs, legal contracts, and codebases",
+      "Projects workspace with persistent custom instructions and reference files"
+    ],
+    "pros": [
+      "Widely preferred by writers and engineers for prose quality and careful coding logic",
+      "Claude Code makes terminal-driven agentic development remarkably effective",
+      "Annual Pro pricing ($17/mo equivalent) undercuts many competing Pro tiers"
+    ],
+    "cons": [
+      "No built-in photorealistic AI image generator like ChatGPT or Midjourney",
+      "Strict session rate limits on Free and Pro tiers during massive coding bursts",
+      "Power developers often need the $100 Max or $200 Ultra plan"
+    ],
+    "bestFor": "Writers, product managers, and software engineers prioritizing writing nuance and deep reasoning",
+    "platforms": ["Web", "macOS", "Windows", "iOS", "Android", "CLI"],
+    "rating": 4.9,
+    "reviewCount": 8950,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["claude.com", "wearetandem.ai", "superapp.dev"]
+  },
+  {
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "tagline": "Private, local-first Markdown knowledge base with bidirectional links and 1,500+ plugins",
+    "description": "Obsidian stores your notes as plain Markdown files directly on your device—offering zero vendor lock-in, blazing local speed, graph visualization, and deep community extensibility.",
+    "category": "Workspace & Knowledge Base",
+    "officialUrl": "https://obsidian.md",
+    "pricingModel": "Free Core App + Optional Add-Ons",
+    "startingPrice": "$0",
+    "startingPriceNumber": 0,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Core App",
+        "price": "$0",
+        "billingNote": "Free for personal & commercial use",
+        "highlights": [
+          "Full local Markdown editor & Graph View",
+          "Unlimited vaults, notes & offline access",
+          "1,500+ community plugins & themes"
+        ]
+      },
+      {
+        "name": "Obsidian Sync (Standard)",
+        "price": "$5/mo",
+        "billingNote": "$4/mo billed annually",
+        "highlights": [
+          "End-to-end encrypted sync for 1 vault",
+          "1 GB storage & 1-month version history",
+          "40% education/nonprofit discount"
+        ]
+      },
+      {
+        "name": "Obsidian Sync (Plus)",
+        "price": "$10/mo",
+        "billingNote": "$8/mo billed annually",
+        "highlights": [
+          "Up to 10 encrypted vaults",
+          "10 GB storage & 12-month history",
+          "Shared vaults for small collaborators"
+        ]
+      },
+      {
+        "name": "Obsidian Publish",
+        "price": "$10/site/mo",
+        "billingNote": "$8/site/mo billed annually",
+        "highlights": [
+          "Turn any vault folder into a fast public wiki",
+          "Custom domain & graph view support",
+          "Optional $25 Catalyst / $50/yr Commercial support"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "100% local-first plain Markdown files you permanently own on disk",
+      "Instant bidirectional [[wikilinks]] and interactive knowledge graph",
+      "Infinite spatial Canvas for visual brainstorming and research mapping",
+      "Massive community plugin ecosystem (Dataview, Templater, Kanban, Excalidraw)",
+      "Optional end-to-end encrypted Sync and one-click Publish hosting"
+    ],
+    "pros": [
+      "Completely free for both personal and commercial use with zero feature paywalls",
+      "Instant startup and search speed even with 20,000+ local notes",
+      "Future-proof Markdown ownership—no proprietary cloud database lock-in"
+    ],
+    "cons": [
+      "Not built for real-time Google Docs-style multiplayer team collaboration",
+      "Requires tinkering with plugins to replicate Notion-style relational databases",
+      "Mobile/desktop syncing requires either Obsidian Sync ($4+/mo) or DIY iCloud/Git setup"
+    ],
+    "bestFor": "Researchers, developers, and lifelong learners building a fast, private second brain",
+    "platforms": ["macOS", "Windows", "Linux", "iOS", "Android"],
+    "rating": 4.9,
+    "reviewCount": 5120,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["obsidian.md", "usecarly.com", "techpresso.co"]
+  },
+  {
+    "slug": "clickup",
+    "name": "ClickUp",
+    "tagline": "All-in-one work platform combining tasks, docs, sprints, chat, and whiteboards",
+    "description": "ClickUp aims to replace multiple productivity apps by combining deeply customizable task hierarchies, Gantt charts, docs, native chat, time tracking, and ClickUp Brain AI.",
+    "category": "Project Management",
+    "officialUrl": "https://clickup.com",
+    "pricingModel": "Freemium (Per User)",
+    "startingPrice": "$9/user/mo",
+    "startingPriceNumber": 9,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free Forever",
+        "price": "$0",
+        "billingNote": "Unlimited users",
+        "highlights": [
+          "Unlimited tasks & core list/board views",
+          "60 MB storage limit",
+          "100 monthly automation runs"
+        ]
+      },
+      {
+        "name": "Core",
+        "price": "$9/user/mo",
+        "billingNote": "Billed annually (~$10–$12 monthly)",
+        "highlights": [
+          "Unlimited storage & integrations",
+          "Expanded custom fields & dashboards",
+          "Removes core Free plan caps"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "$17/user/mo",
+        "billingNote": "Billed annually",
+        "highlights": [
+          "Advanced automations & workload views",
+          "Custom exporting, timelines & mind maps",
+          "Granular team permissions"
+        ]
+      },
+      {
+        "name": "Enterprise / Max",
+        "price": "Custom / ~$100/user/mo",
+        "billingNote": "Max tier includes expansive AI",
+        "highlights": [
+          "SSO/SCIM, HIPAA compliance & custom roles",
+          "White labeling & enterprise permissions",
+          "Expanded AI model processing"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "15+ customizable views including List, Kanban, Gantt, Calendar, and Workload",
+      "Built-in Docs, Whiteboards, Goals, native Chat, and time tracking",
+      "Custom statuses, conditional automations, and nested subtask hierarchies",
+      "Integrated ClickUp Brain AI assistants and workspace search",
+      "Generous Free Forever plan with unlimited tasks and members"
+    ],
+    "pros": [
+      "Incredible feature-to-dollar ratio—replaces separate docs, chat, and time-tracking tools",
+      "Deep customizability accommodates agencies, ops, and engineering teams",
+      "Strong Free Forever tier for bootstrapping teams"
+    ],
+    "cons": [
+      "Feature density creates a steeper learning curve and frequent setup fatigue",
+      "Interface can feel busier and slower than minimalist tools like Linear",
+      "Full AI capabilities often require paid add-ons or high-tier Max plans"
+    ],
+    "bestFor": "Agencies, operations teams, and growing companies seeking one customizable hub for everything",
+    "platforms": ["Web", "macOS", "Windows", "iOS", "Android", "Linux"],
+    "rating": 4.6,
+    "reviewCount": 7840,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["clickup.com", "breeze.pm", "usecarly.com"]
+  },
+  {
+    "slug": "linear",
+    "name": "Linear",
+    "tagline": "Blazing-fast, keyboard-first issue tracker and product roadmap tool for software teams",
+    "description": "Linear brings purposeful design, sub-50ms interactions, automated sprint cycles, GitHub/GitLab sync, and Linear Agent intelligence to high-velocity software engineering teams.",
+    "category": "Project Management",
+    "officialUrl": "https://linear.app",
+    "pricingModel": "Freemium (Per User)",
+    "startingPrice": "$10/user/mo",
+    "startingPriceNumber": 10,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Unlimited members",
+        "highlights": [
+          "Up to 2 teams & 250 active issues",
+          "Core Cycles, Roadmaps & GitHub/GitLab sync",
+          "10 MB file upload limit"
+        ]
+      },
+      {
+        "name": "Basic",
+        "price": "$10/user/mo",
+        "billingNote": "Billed annually ($12 monthly)",
+        "highlights": [
+          "Up to 5 teams & unlimited issues",
+          "Unlimited file uploads",
+          "Workspace admin roles"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "$16/user/mo",
+        "billingNote": "Billed annually ($18 monthly)",
+        "highlights": [
+          "Unlimited & private teams + guest accounts",
+          "Linear Insights, Asks & Triage/Code Intelligence",
+          "Zendesk & Intercom integrations + 2x API limits"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "billingNote": "Annual contract",
+        "highlights": [
+          "SAML/SCIM SSO & advanced org modeling",
+          "Sub-initiatives & 5x API rate limits",
+          "Dedicated onboarding & priority SLA"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Sub-50ms local-sync architecture with Cmd+K keyboard command menu",
+      "Opinionated Cycles (sprints), Projects, and multi-team Roadmaps",
+      "Deep two-way GitHub, GitLab, Slack, and Sentry automations",
+      "Linear Asks, Insights analytics, and AI Triage / Code Intelligence",
+      "Unlimited member invitations even on the Free plan"
+    ],
+    "pros": [
+      "Fastest, cleanest UI in project management—zero bloat or sluggishness",
+      "Engineers actually enjoy updating tickets thanks to keyboard shortcuts and Git sync",
+      "Predictable, transparent pricing with unlimited free members (under 250 active issues)"
+    ],
+    "cons": [
+      "Opinionated software-centric workflow is too rigid for marketing or HR teams",
+      "Strict 250 active issue cap on the Free tier pushes active startups to Basic quickly",
+      "Not a full wiki or CRM replacement—pairs best with Notion or Obsidian"
+    ],
+    "bestFor": "Product engineering teams and tech startups replacing clunky Jira or overloaded workspaces",
+    "platforms": ["Web", "macOS", "Windows", "iOS"],
+    "rating": 4.9,
+    "reviewCount": 4210,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": ["linear.app", "lifestack.ai", "t0ggles.com"]
+  },
+  {
+    "slug": "coda",
+    "name": "Coda",
+    "tagline": "All-in-one collaborative doc that turns tables, formulas, and Packs into internal apps",
+    "description": "Coda merges rich documents with relational spreadsheets, interactive buttons, and 600+ Packs integrations—charging only for Doc Makers while editors and viewers join free.",
+    "category": "Workspace & Knowledge Base",
+    "officialUrl": "https://coda.io",
+    "pricingModel": "Freemium (Doc Maker Billing)",
+    "startingPrice": "$12/maker/mo",
+    "startingPriceNumber": 12,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Free for unlimited editors & viewers",
+        "highlights": [
+          "Collaborative docs, tables & formulas",
+          "Doc size limits apply",
+          "Basic automations & starter Packs"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$12/maker/mo",
+        "billingNote": "Billed annually ($15 monthly); editors free",
+        "highlights": [
+          "Unlimited doc size & version history",
+          "Custom branding & hidden pages",
+          "Pro Packs integrations"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": "$36/maker/mo",
+        "billingNote": "Billed annually ($40 monthly)",
+        "highlights": [
+          "Unlimited automations & cross-doc sync",
+          "Folder permissions & locking",
+          "Team workspace Packs"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Pay-only-for-Doc-Makers billing saves substantially for large read/edit teams",
+      "Interactive buttons, sliders, and Excel-grade formula language inside docs",
+      "600+ Packs syncing Jira, Slack, GitHub, Figma, and Salesforce live",
+      "Cross-doc tables and automated rule triggers",
+      "Native Coda AI assistants for summarizing tables and drafting specs"
+    ],
+    "pros": [
+      "Far more powerful formulas and programmable buttons than Notion",
+      "Doc Maker pricing makes team-wide rollouts dramatically cheaper when most staff just edit",
+      "Turns messy status docs into interactive internal tools"
+    ],
+    "cons": [
+      "Complex docs with heavy formulas can feel sluggish",
+      "Less intuitive aesthetic for simple note-taking than Notion or Obsidian",
+      "Per-Doc-Maker rate on Team ($36) climbs quickly if everyone creates new docs"
+    ],
+    "bestFor": "Operations, PM, and revenue teams building interactive doc-apps and connected trackers",
+    "platforms": ["Web", "iOS", "Android"],
+    "rating": 4.6,
+    "reviewCount": 2650,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["subpilot.tech", "vendorbenchmark.com", "zite.com"]
+  },
+  {
+    "slug": "windsurf",
+    "name": "Windsurf",
+    "tagline": "Agentic AI IDE with Cascade deep codebase awareness, unlimited Tab, and instant previews",
+    "description": "Built to streamline full-stack engineering, Windsurf pairs unlimited Tab autocomplete with agentic Cascade flows, fast SWE-1.5 agent models, and built-in app previews and deploys.",
+    "category": "AI Coding & IDE",
+    "officialUrl": "https://windsurf.com",
+    "pricingModel": "Freemium (Daily/Weekly Quota Tiers)",
+    "startingPrice": "$20/mo",
+    "startingPriceNumber": 20,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Free forever",
+        "highlights": [
+          "Unlimited Tab autocomplete",
+          "Light daily/weekly Cascade agent quota",
+          "Full VS Code extension support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$20/mo",
+        "billingNote": "Individual tier",
+        "highlights": [
+          "Unlimited Tab autocomplete",
+          "Standard daily/weekly agent quota & SWE-1.5",
+          "Fast context handling, previews & deploys"
+        ]
+      },
+      {
+        "name": "Teams",
+        "price": "$40/user/mo",
+        "billingNote": "Per user monthly",
+        "highlights": [
+          "Pooled/managed per-user quotas",
+          "Centralized billing & usage analytics",
+          "Admin dashboard & priority support"
+        ]
+      },
+      {
+        "name": "Max",
+        "price": "$200/mo",
+        "billingNote": "Power users",
+        "highlights": [
+          "Heavy daily/weekly agent ceiling",
+          "Built for continuous autonomous coding",
+          "Priority model access"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Unlimited Tab autocomplete even on the $0 Free plan",
+      "Cascade agent tracks edits, terminal commands, and repository context automatically",
+      "Fast proprietary SWE-1.5 agent models alongside frontier third-party LLMs",
+      "Live in-IDE web previews and one-click cloud deployment hooks",
+      "Zero-friction import of existing VS Code settings and extensions"
+    ],
+    "pros": [
+      "Unlimited Tab autocomplete on the Free tier beats most AI IDE rivals",
+      "Flat $20/mo Pro tier sits noticeably below Cursor's $30 Premium tier",
+      "Built-in live preview and deployment streamlines web app iteration"
+    ],
+    "cons": [
+      "Transition from monthly prompt credits to daily/weekly quotas can throttle marathon sessions",
+      "Smaller third-party plugin community ecosystem around agent workflows than Cursor",
+      "Requires migrating away from vanilla VS Code or JetBrains"
+    ],
+    "bestFor": "Developers seeking a budget-friendly $20/mo agentic AI IDE with unlimited free Tab",
+    "platforms": ["macOS", "Windows", "Linux"],
+    "rating": 4.7,
+    "reviewCount": 2940,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["cloudzero.com", "metronome.com", "pecollective.com"]
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "tagline": "AI coding assistant natively embedded inside VS Code, JetBrains, Xcode, and GitHub PRs",
+    "description": "GitHub Copilot brings code completion, multi-file agent mode, PR reviews, and credit-based frontier model selection directly into standard IDEs without requiring a custom fork.",
+    "category": "AI Coding & IDE",
+    "officialUrl": "https://github.com/features/copilot",
+    "pricingModel": "Freemium (Credit & Seat Tiers)",
+    "startingPrice": "$10/mo",
+    "startingPriceNumber": 10,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free / Student",
+        "price": "$0",
+        "billingNote": "Free for verified students & open-source maintainers",
+        "highlights": [
+          "Limited monthly code completions & chat",
+          "Works directly inside VS Code & JetBrains",
+          "No IDE migration needed"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$10/mo",
+        "billingNote": "Individual developers",
+        "highlights": [
+          "Baseline monthly AI credit allotment",
+          "Multi-model chat & workspace edits",
+          "IDE + GitHub.com integration"
+        ]
+      },
+      {
+        "name": "Pro+ / Business",
+        "price": "$19–$39/mo",
+        "billingNote": "Business $19/user/mo; Pro+ $39/mo",
+        "highlights": [
+          "Higher credit pools for agentic chat (Pro+)",
+          "Org policy controls & IP indemnity (Business)",
+          "Enterprise tier at $39/user/mo"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Native plugin inside stock VS Code, JetBrains IDEs, Visual Studio, Neovim, and Xcode",
+      "Multi-model selector supporting OpenAI, Anthropic, and Google coding models",
+      "Deep integration with GitHub Pull Requests, Issues, and Actions logs",
+      "Enterprise IP indemnification and repository exclusion policies",
+      "Generous Free tier and $10/mo Pro baseline pricing"
+    ],
+    "pros": [
+      "Works right inside your existing VS Code or JetBrains setup—no IDE fork required",
+      "$10/mo Pro tier is highly affordable and free for verified students",
+      "Unbeatable enterprise compliance, SOC 2, and GitHub PR context"
+    ],
+    "cons": [
+      "Heavy agentic users burn through baseline credits quickly without Pro+ ($39/mo)",
+      "Multi-file Composer UX feels slightly less seamless than Cursor on complex refactors",
+      "Best repository integrations assume your code lives on GitHub"
+    ],
+    "bestFor": "Enterprise engineering orgs and JetBrains/VS Code loyalists prioritizing native compliance",
+    "platforms": ["VS Code", "JetBrains", "Visual Studio", "Neovim", "GitHub Web"],
+    "rating": 4.6,
+    "reviewCount": 9400,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["github.com", "opslyft.com", "activepieces.com"]
+  },
+  {
+    "slug": "copy-ai",
+    "name": "Copy.ai",
+    "tagline": "Go-to-market AI platform automating outbound sales, content ops, and marketing workflows",
+    "description": "Copy.ai goes beyond ad-hoc copywriting to offer a full GTM AI platform combining multi-step workflow automation, prospect enrichment, and reusable brand copy templates.",
+    "category": "AI Writing & Marketing",
+    "officialUrl": "https://www.copy.ai",
+    "pricingModel": "Freemium (Chat & GTM Agent Tiers)",
+    "startingPrice": "$29/mo",
+    "startingPriceNumber": 29,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Limited starter allowance",
+        "highlights": [
+          "Short-form writing templates",
+          "Basic chat & prompt testing",
+          "Single-user evaluation"
+        ]
+      },
+      {
+        "name": "Chat Plan",
+        "price": "$29/mo",
+        "billingNote": "Self-serve solo writer",
+        "highlights": [
+          "Unlimited chat words & Infobase storage",
+          "Brand voice & multi-model chat access",
+          "Marketing & sales copy templates"
+        ]
+      },
+      {
+        "name": "Agents / Scale",
+        "price": "$249+/mo",
+        "billingNote": "Agents ~$249/mo (up to 10 seats)",
+        "highlights": [
+          "Automated GTM & RevOps workflows",
+          "Lead research & outbound enrichment",
+          "Scale tiers $1,000–$3,000/mo for high volume"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Automated GTM workflow builder connecting web scraping, CRM enrichment, and drafting",
+      "Infobase knowledge repository keeping brand messaging consistent across seats",
+      "Multi-model access eliminating lock-in to a single LLM provider",
+      "Pre-built playbooks for SEO briefs, outbound sequences, and social repurposing",
+      "Lower entry Chat price ($29/mo) than Jasper's $59/mo Pro plan"
+    ],
+    "pros": [
+      "Entry Chat tier costs half of Jasper Pro while supporting Brand Voice and Infobase",
+      "Powerful automated RevOps and outbound prospecting workflows on Agents plans",
+      "Strong multi-seat scaling for GTM teams"
+    ],
+    "cons": [
+      "Big pricing jump from $29/mo solo Chat to $249/mo Agents workflow automation",
+      "Raw long-form prose still requires human editing to sound distinct",
+      "Interface feels geared more toward GTM ops than pure editorial blogging"
+    ],
+    "bestFor": "B2B marketing and revenue teams automating repetitive content and outbound workflows",
+    "platforms": ["Web"],
+    "rating": 4.4,
+    "reviewCount": 2410,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["contentforce.ai", "activepieces.com", "fluxnote.io"]
+  },
+  {
+    "slug": "ideogram",
+    "name": "Ideogram",
+    "tagline": "AI image generator specializing in crisp typography, posters, logos, and graphic design",
+    "description": "Ideogram solves AI art's biggest weakness by rendering legible, stylized typography inside posters, t-shirts, logos, and marketing graphics alongside a precision Canvas editor.",
+    "category": "AI Image Generation",
+    "officialUrl": "https://ideogram.ai",
+    "pricingModel": "Freemium (Monthly Credit Buckets)",
+    "startingPrice": "$15/mo",
+    "startingPriceNumber": 15,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Free credits",
+        "highlights": [
+          "Limited slow-queue generation credits",
+          "Access to Ideogram typography engine",
+          "Public gallery creations"
+        ]
+      },
+      {
+        "name": "Plus",
+        "price": "$15/mo",
+        "billingNote": "Billed annually ($20 monthly)",
+        "highlights": [
+          "Priority fast generation credits",
+          "Private image generation & Canvas editor",
+          "Image upload & Magic Fill inpainting"
+        ]
+      },
+      {
+        "name": "Pro / Team",
+        "price": "$20–$42/mo",
+        "billingNote": "Team $20/user/mo annual; Pro $42/mo annual",
+        "highlights": [
+          "Large monthly priority credit pools",
+          "Bulk CSV generation & Canvas composition",
+          "Commercial API starting ~$0.03/image"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Best-in-class accurate spelling and stylized typography inside generated artwork",
+      "Multi-element Canvas tool for compositing, extending, and Magic Fill editing",
+      "Color palette presets and Magic Prompt enhancement",
+      "Generous Free tier to evaluate graphic styles before upgrading",
+      "Pay-as-you-go developer API (~$0.03+ per image)"
+    ],
+    "pros": [
+      "Unmatched text rendering accuracy for logos, thumbnails, posters, and merch",
+      "Includes a generous free tier—unlike Midjourney",
+      "Canvas editor makes multi-part layouts easy without switching to Photoshop"
+    ],
+    "cons": [
+      "Cinematic fantasy and painterly art styling slightly trails Midjourney",
+      "Cloud-only proprietary platform with no local open-weight self-hosting",
+      "Free tier outputs remain publicly visible"
+    ],
+    "bestFor": "Graphic designers, YouTubers, and marketers needing crisp text inside AI visuals",
+    "platforms": ["Web", "iOS", "API"],
+    "rating": 4.7,
+    "reviewCount": 2190,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["ideogram.ai", "activepieces.com", "aiimagecompare.com"]
+  },
+  {
+    "slug": "flux",
+    "name": "FLUX (Black Forest Labs)",
+    "tagline": "Ultra-realistic AI image models with open weights, LoRA fine-tuning, and low-cost APIs",
+    "description": "Created by Black Forest Labs, the FLUX model family combines state-of-the-art photorealism and prompt adherence with open-weight local variants (Schnell/Dev) and ultra-cheap APIs.",
+    "category": "AI Image Generation",
+    "officialUrl": "https://blackforestlabs.ai",
+    "pricingModel": "Open Weights + Pay-As-You-Go API",
+    "startingPrice": "$0.003/image",
+    "startingPriceNumber": 0,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Open Weights (Schnell / Dev)",
+        "price": "$0",
+        "billingNote": "Run locally on your GPU",
+        "highlights": [
+          "FLUX.1 [schnell] Apache-2.0 commercial open weights",
+          "Full ComfyUI & LoRA fine-tuning freedom",
+          "Zero monthly subscription fees"
+        ]
+      },
+      {
+        "name": "Cloud API (Schnell)",
+        "price": "~$0.003/image",
+        "billingNote": "Via fal.ai, Replicate & API partners",
+        "highlights": [
+          "Sub-second drafts at fraction-of-a-cent cost",
+          "Pure pay-as-you-go without idle subscriptions",
+          "Scales effortlessly in production apps"
+        ]
+      },
+      {
+        "name": "Cloud API (Dev / Pro)",
+        "price": "$0.025–$0.048/image",
+        "billingNote": "Per-image metered billing",
+        "highlights": [
+          "Flagship photorealistic skin, lighting & textures",
+          "High spatial prompt adherence",
+          "Inpainting & ControlNet ecosystem support"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Exceptional photorealism, lighting physics, hands, and spatial prompt accuracy",
+      "Open-weight local models compatible with ComfyUI, Automatic1111, and custom LoRAs",
+      "Pay-per-image API pricing starting around $0.003/image (no $30/mo lock-in)",
+      "Strong visual text rendering and multi-aspect flexibility",
+      "Widely supported across fal.ai, Replicate, Poe, and creative suites"
+    ],
+    "pros": [
+      "Zero fixed monthly cost—run open weights free locally or pay pennies per API image",
+      "Complete creative control via LoRAs, ControlNets, and local workflows",
+      "Photorealism and spatial instruction following rival or beat Midjourney"
+    ],
+    "cons": [
+      "No single polished consumer Discord/web studio unless using third-party UIs",
+      "Local execution requires capable consumer GPU hardware (or cloud rental)",
+      "Navigating Schnell, Dev, Pro, and newer model branches can confuse beginners"
+    ],
+    "bestFor": "Developers, AI studios, and power creators wanting photorealism, LoRAs, or pay-per-image pricing",
+    "platforms": ["Local GPU", "Cloud API", "Web Partners"],
+    "rating": 4.8,
+    "reviewCount": 3420,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["blackforestlabs.ai", "costgoat.com", "aiimagecompare.com"]
+  },
+  {
+    "slug": "adobe-firefly",
+    "name": "Adobe Firefly",
+    "tagline": "Commercially safe generative AI studio deeply integrated into Photoshop and Creative Cloud",
+    "description": "Trained strictly on licensed Adobe Stock and public-domain imagery, Adobe Firefly gives design teams commercially indemnified image/video generation inside web and Photoshop tools.",
+    "category": "AI Image Generation",
+    "officialUrl": "https://www.adobe.com/products/firefly.html",
+    "pricingModel": "Freemium (Generative Credits)",
+    "startingPrice": "$9.99/mo",
+    "startingPriceNumber": 10,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Firefly Free",
+        "price": "$0",
+        "billingNote": "Daily refreshing limit",
+        "highlights": [
+          "Limited daily generative image previews",
+          "Web studio access for testing",
+          "Trained on commercially safe licensed data"
+        ]
+      },
+      {
+        "name": "Firefly Standard",
+        "price": "$9.99/mo",
+        "billingNote": "Free trial available",
+        "highlights": [
+          "2,000 generative credits/month",
+          "Unlimited standard image tools & Generative Fill",
+          "~20 five-second video generations"
+        ]
+      },
+      {
+        "name": "Firefly Pro",
+        "price": "$19.99/mo",
+        "billingNote": "Includes Express & Photoshop web/mobile",
+        "highlights": [
+          "4,000 generative credits/month",
+          "Adobe Express Premium & Photoshop Web/Mobile",
+          "~40 five-second video generations (higher plans up to 50k credits)"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Trained exclusively on licensed Adobe Stock and public-domain content for IP safety",
+      "Native Generative Fill, Generative Expand, and Vector Recolor inside Photoshop & Illustrator",
+      "Integrated image, text-effects, and short video generation under one credit pool",
+      "Style and structure reference matching for consistent brand assets",
+      "Bundled Creative Cloud web and Adobe Express workflows on Firefly Pro"
+    ],
+    "pros": [
+      "Safest legal/IP choice for Fortune 500 brands, agencies, and commercial campaigns",
+      "Generative Fill inside Photoshop accelerates real client retouching workflows",
+      "Accessible Free tier and $9.99/mo entry plan"
+    ],
+    "cons": [
+      "Artistic fantasy and dramatic cinematic outputs look less striking than Midjourney",
+      "Credit caps on video and premium generations add up quickly for heavy users",
+      "Tightest value goes to users already embedded in Adobe Creative Cloud"
+    ],
+    "bestFor": "Commercial agencies, brand teams, and Photoshop users requiring copyright-safe AI assets",
+    "platforms": ["Web", "Photoshop", "Illustrator", "Adobe Express"],
+    "rating": 4.5,
+    "reviewCount": 3890,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["adobe.com", "renderahouse.com", "activepieces.com"]
+  },
+  {
+    "slug": "asana",
+    "name": "Asana",
+    "tagline": "Structured enterprise work management with Portfolios, Goals, Timeline, and AI Studio",
+    "description": "Asana aligns cross-functional marketing, operations, and enterprise teams around clear accountability, company Goals, Gantt timelines, and automated Asana AI workflows.",
+    "category": "Project Management",
+    "officialUrl": "https://asana.com",
+    "pricingModel": "Freemium (Per User)",
+    "startingPrice": "$10.99/user/mo",
+    "startingPriceNumber": 11,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Personal",
+        "price": "$0",
+        "billingNote": "Free forever for up to 2 users",
+        "highlights": [
+          "Unlimited tasks, projects & messages",
+          "List, Board & Calendar views",
+          "Basic workflow integrations"
+        ]
+      },
+      {
+        "name": "Starter",
+        "price": "$10.99/user/mo",
+        "billingNote": "Billed annually ($13.49 monthly)",
+        "highlights": [
+          "Timeline (Gantt), Workflow Builder & Asana AI",
+          "Custom fields, rules & forms",
+          "Unlimited teammates"
+        ]
+      },
+      {
+        "name": "Advanced",
+        "price": "$24.99/user/mo",
+        "billingNote": "Billed annually ($30.49 monthly)",
+        "highlights": [
+          "Company Goals & executive Portfolios",
+          "Workload capacity & time tracking",
+          "Approvals, proofing & Salesforce/Tableau sync"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Clean, structured UI balancing ease of onboarding with cross-team rigor",
+      "Executive Portfolios and Goals linking daily tasks directly to OKRs",
+      "Visual Workflow Builder and Asana AI Studio for smart routing and status summaries",
+      "Timeline Gantt charts, resource Workload views, and proofing tools",
+      "300+ integrations across Slack, Microsoft 365, Google Workspace, and Salesforce"
+    ],
+    "pros": [
+      "Far cleaner and easier for non-technical departments to adopt than ClickUp",
+      "Industry-leading Portfolios and executive Goals hierarchy",
+      "Reliable enterprise performance and security compliance"
+    ],
+    "cons": [
+      "Free Personal plan caps teams at just 2 users (vs ClickUp's unlimited free users)",
+      "Expensive Advanced tier ($24.99/user/mo) for Portfolios and Workload",
+      "Strict single-assignee-per-task model feels rigid for some agile setups"
+    ],
+    "bestFor": "Marketing, operations, and mid-to-large cross-functional organizations scaling structured processes",
+    "platforms": ["Web", "macOS", "Windows", "iOS", "Android"],
+    "rating": 4.6,
+    "reviewCount": 8650,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["asana.com", "superdupr.com", "zapier.com"]
+  },
+  {
+    "slug": "you-com",
+    "name": "You.com",
+    "tagline": "Multi-model AI search workspace and web-grounding developer API with live citations",
+    "description": "You.com lets professionals switch seamlessly between GPT, Claude, and specialized research modes with live web citations, alongside a pay-as-you-go web search API for builders.",
+    "category": "AI Search & Research",
+    "officialUrl": "https://you.com",
+    "pricingModel": "Freemium / API & Workspace Tiers",
+    "startingPrice": "$15/mo",
+    "startingPriceNumber": 15,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free Search / API Starter",
+        "price": "$0",
+        "billingNote": "100 API searches/day via MCP starter tier",
+        "highlights": [
+          "Real-time web-grounded answers",
+          "Inline source links",
+          "Developer web search API free starter allowance"
+        ]
+      },
+      {
+        "name": "Pro / Aggregator Workspace",
+        "price": "~$15.99–$29.99/mo",
+        "billingNote": "Pro & multi-model tiers",
+        "highlights": [
+          "Toggle between top frontier models (GPT, Claude)",
+          "Custom research agents & code/writing modes",
+          "Extended multi-step web synthesis"
+        ]
+      },
+      {
+        "name": "Developer Search API",
+        "price": "From $5 / 1,000 reqs",
+        "billingNote": "Pay-as-you-go usage",
+        "highlights": [
+          "LLM-ready live web snippets",
+          "Low-latency RAG grounding",
+          "Enterprise ARC research options"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Live model switching between OpenAI, Anthropic, and custom research agents",
+      "Multi-column search UI separating citations, code blocks, and synthesis",
+      "Specialized YouCode and research modes for technical teams",
+      "Developer-friendly Web Search API starting with 100 free daily requests",
+      "Custom agent creation tailored to recurring research briefs"
+    ],
+    "pros": [
+      "Strong developer API and MCP search grounding alongside consumer search",
+      "Lets teams test multiple frontier models with live web citations in one hub",
+      "Clean multi-column citation inspection"
+    ],
+    "cons": [
+      "Consumer UI polish and mobile ecosystem lag behind Perplexity",
+      "Advanced models and custom research agents require paid plans",
+      "Smaller brand mindshare and fewer consumer community Spaces than Perplexity"
+    ],
+    "bestFor": "Developers building RAG search agents and professionals wanting multi-model live web search",
+    "platforms": ["Web", "API", "iOS", "Android"],
+    "rating": 4.3,
+    "reviewCount": 1480,
+    "isFlagship": false,
+    "lastUpdated": "2026-11-22",
+    "sources": ["you.com", "zemith.com", "aiforbusinessautomation.com"]
+  }
+]

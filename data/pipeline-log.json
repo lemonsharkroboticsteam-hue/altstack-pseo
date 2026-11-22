@@ -1,0 +1,17 @@
+[
+  {
+    "runAt": "2026-11-22T19:10:00+08:00",
+    "type": "initial-seed",
+    "toolsCount": 19,
+    "flagshipCount": 10,
+    "alternativesPagesCount": 10,
+    "comparisonPagesCount": 10,
+    "totalPseoPages": 39,
+    "sources": [
+      "browser-subagent:producthunt.com (net::ERR_TUNNEL_CONNECTION_FAILED)",
+      "browser-subagent:alternativeto.net (net::ERR_TUNNEL_CONNECTION_FAILED)",
+      "web-search:official-pricing-and-feature-verification-2026"
+    ],
+    "notes": "Initial seed dataset built with 10 flagship tools, 9 supporting alternatives, 10 best-[tool]-alternatives pages, and 10 [toolA]-vs-[toolB] comparison pages. Built-in browser encountered net::ERR_TUNNEL_CONNECTION_FAILED on producthunt.com and alternativeto.net; pricing and feature specifications were verified via live web search."
+  }
+]
