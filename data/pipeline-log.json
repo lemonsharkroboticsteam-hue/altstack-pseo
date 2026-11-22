@@ -13,5 +13,24 @@
       "web-search:official-pricing-and-feature-verification-2026"
     ],
     "notes": "Initial seed dataset built with 10 flagship tools, 9 supporting alternatives, 10 best-[tool]-alternatives pages, and 10 [toolA]-vs-[toolB] comparison pages. Built-in browser encountered net::ERR_TUNNEL_CONNECTION_FAILED on producthunt.com and alternativeto.net; pricing and feature specifications were verified via live web search."
+  },
+  {
+    "runAt": "2026-11-22T14:16:10.199Z",
+    "type": "automated-ingest",
+    "inboxFile": "data/inbox/latest-scrape.json",
+    "addedTools": 3,
+    "updatedTools": 0,
+    "addedAltPages": 3,
+    "addedVsPages": 3,
+    "sources": [
+      "browser-subagent:producthunt.com (BROWSER_TOOL_UNAVAILABLE: conversation is not open in any Hub window)",
+      "browser-subagent:alternativeto.net (BROWSER_TOOL_UNAVAILABLE: conversation is not open in any Hub window)",
+      "web-search:producthunt.com",
+      "web-search:alternativeto.net",
+      "web-search:lovable.dev",
+      "web-search:manus.im",
+      "web-search:anytype.io"
+    ],
+    "notes": "12-hour bandwidth-saving pSEO run. Browser subagent (flash) failed with BROWSER_TOOL_UNAVAILABLE (conversation is not open in any Hub window) on producthunt.com and alternativeto.net; supplemented trending discovery, official pricing tiers, features, pros, cons, and alternatives via live web search."
   }
 ]

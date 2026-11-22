@@ -589,5 +589,164 @@
       }
     ],
     "lastUpdated": "2026-11-22"
+  },
+  {
+    "slug": "best-lovable-alternatives",
+    "targetToolSlug": "lovable",
+    "title": "Best Lovable Alternatives in 2026: Pricing & Feature Picks",
+    "metaDescription": "Compare the best Lovable alternatives in 2026 including Cursor, Windsurf, GitHub Copilot. See pricing, free plans, pros, and cons.",
+    "intro": "Lovable is a popular AI Coding & IDE platform ($25/mo), yet teams frequently evaluate alternatives for lower costs, free tiers, or specialized features. Here are the top Lovable alternatives verified for 2026.",
+    "topPickSlug": "cursor",
+    "alternatives": [
+      {
+        "toolSlug": "cursor",
+        "rank": 1,
+        "badge": "Top Overall Alternative",
+        "whySwitch": "Switch from Lovable to Cursor if you want software engineers and startup builders shipping production code fast inside a vs code-style ide with a permanent free tier.",
+        "standoutFeature": "Multi-file Composer and Cloud Agents for end-to-end feature generation"
+      },
+      {
+        "toolSlug": "windsurf",
+        "rank": 2,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Lovable to Windsurf if you want developers seeking a budget-friendly $20/mo agentic ai ide with unlimited free tab with a permanent free tier.",
+        "standoutFeature": "Unlimited Tab autocomplete even on the $0 Free plan"
+      },
+      {
+        "toolSlug": "github-copilot",
+        "rank": 3,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Lovable to GitHub Copilot if you want enterprise engineering orgs and jetbrains/vs code loyalists prioritizing native compliance with a permanent free tier.",
+        "standoutFeature": "Native plugin inside stock VS Code, JetBrains IDEs, Visual Studio, Neovim, and Xcode"
+      },
+      {
+        "toolSlug": "claude",
+        "rank": 4,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Lovable to Claude if you want writers, product managers, and software engineers prioritizing writing nuance and deep reasoning with a permanent free tier.",
+        "standoutFeature": "Natural, high-craft prose quality that avoids robotic AI clichés"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the best alternative to Lovable in 2026?",
+        "answer": "Cursor is our #1 alternative to Lovable thanks to its 4.8/5 rating and focus on Software engineers and startup builders shipping production code fast inside a VS Code-style IDE."
+      },
+      {
+        "question": "Are there free alternatives to Lovable?",
+        "answer": "Yes—Cursor, Windsurf, GitHub Copilot, Claude offer permanent free tiers."
+      },
+      {
+        "question": "How much does Lovable cost compared to alternatives?",
+        "answer": "Lovable paid plans start at $25/mo, whereas Cursor starts at $8/mo."
+      }
+    ],
+    "lastUpdated": "2026-11-22"
+  },
+  {
+    "slug": "best-manus-alternatives",
+    "targetToolSlug": "manus",
+    "title": "Best Manus Alternatives in 2026: Pricing & Feature Picks",
+    "metaDescription": "Compare the best Manus alternatives in 2026 including Claude, ChatGPT, Obsidian. See pricing, free plans, pros, and cons.",
+    "intro": "Manus is a popular General AI Assistant platform ($20/mo), yet teams frequently evaluate alternatives for lower costs, free tiers, or specialized features. Here are the top Manus alternatives verified for 2026.",
+    "topPickSlug": "claude",
+    "alternatives": [
+      {
+        "toolSlug": "claude",
+        "rank": 1,
+        "badge": "Top Overall Alternative",
+        "whySwitch": "Switch from Manus to Claude if you want writers, product managers, and software engineers prioritizing writing nuance and deep reasoning with a permanent free tier.",
+        "standoutFeature": "Natural, high-craft prose quality that avoids robotic AI clichés"
+      },
+      {
+        "toolSlug": "chatgpt",
+        "rank": 2,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Manus to ChatGPT if you want everyday professionals and teams wanting a single swiss-army-knife ai subscription with a permanent free tier.",
+        "standoutFeature": "Flagship reasoning models paired with real-time web browsing and Deep Research"
+      },
+      {
+        "toolSlug": "obsidian",
+        "rank": 3,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Manus to Obsidian if you want researchers, developers, and lifelong learners building a fast, private second brain with a permanent free tier.",
+        "standoutFeature": "100% local-first plain Markdown files you permanently own on disk"
+      },
+      {
+        "toolSlug": "linear",
+        "rank": 4,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Manus to Linear if you want product engineering teams and tech startups replacing clunky jira or overloaded workspaces with a permanent free tier.",
+        "standoutFeature": "Sub-50ms local-sync architecture with Cmd+K keyboard command menu"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the best alternative to Manus in 2026?",
+        "answer": "Claude is our #1 alternative to Manus thanks to its 4.9/5 rating and focus on Writers, product managers, and software engineers prioritizing writing nuance and deep reasoning."
+      },
+      {
+        "question": "Are there free alternatives to Manus?",
+        "answer": "Yes—Claude, ChatGPT, Obsidian, Linear offer permanent free tiers."
+      },
+      {
+        "question": "How much does Manus cost compared to alternatives?",
+        "answer": "Manus paid plans start at $20/mo, whereas Claude starts at $17/mo."
+      }
+    ],
+    "lastUpdated": "2026-11-22"
+  },
+  {
+    "slug": "best-anytype-alternatives",
+    "targetToolSlug": "anytype",
+    "title": "Best Anytype Alternatives in 2026: Pricing & Feature Picks",
+    "metaDescription": "Compare the best Anytype alternatives in 2026 including Obsidian, Notion, Coda. See pricing, free plans, pros, and cons.",
+    "intro": "Anytype is a popular Workspace & Knowledge Base platform ($4/mo), yet teams frequently evaluate alternatives for lower costs, free tiers, or specialized features. Here are the top Anytype alternatives verified for 2026.",
+    "topPickSlug": "obsidian",
+    "alternatives": [
+      {
+        "toolSlug": "obsidian",
+        "rank": 1,
+        "badge": "Top Overall Alternative",
+        "whySwitch": "Switch from Anytype to Obsidian if you want researchers, developers, and lifelong learners building a fast, private second brain with a permanent free tier.",
+        "standoutFeature": "100% local-first plain Markdown files you permanently own on disk"
+      },
+      {
+        "toolSlug": "notion",
+        "rank": 2,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Anytype to Notion if you want cross-functional product, ops, and startup teams consolidating docs and lightweight project tracking with a permanent free tier.",
+        "standoutFeature": "Relational databases with Table, Board, Timeline, and Calendar views"
+      },
+      {
+        "toolSlug": "coda",
+        "rank": 3,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Anytype to Coda if you want operations, pm, and revenue teams building interactive doc-apps and connected trackers with a permanent free tier.",
+        "standoutFeature": "Pay-only-for-Doc-Makers billing saves substantially for large read/edit teams"
+      },
+      {
+        "toolSlug": "claude",
+        "rank": 4,
+        "badge": "Best Free-Tier Option",
+        "whySwitch": "Switch from Anytype to Claude if you want writers, product managers, and software engineers prioritizing writing nuance and deep reasoning with a permanent free tier.",
+        "standoutFeature": "Natural, high-craft prose quality that avoids robotic AI clichés"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the best alternative to Anytype in 2026?",
+        "answer": "Obsidian is our #1 alternative to Anytype thanks to its 4.9/5 rating and focus on Researchers, developers, and lifelong learners building a fast, private second brain."
+      },
+      {
+        "question": "Are there free alternatives to Anytype?",
+        "answer": "Yes—Obsidian, Notion, Coda, Claude offer permanent free tiers."
+      },
+      {
+        "question": "How much does Anytype cost compared to alternatives?",
+        "answer": "Anytype paid plans start at $4/mo, whereas Obsidian starts at $0."
+      }
+    ],
+    "lastUpdated": "2026-11-22"
   }
 ]

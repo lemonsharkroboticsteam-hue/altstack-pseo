@@ -131,5 +131,26 @@
     "dealBadge": "Multi-Model Search",
     "promoNote": "API & team research tools",
     "isAffiliateActive": false
+  },
+  "lovable": {
+    "affiliateUrl": "https://lovable.dev?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Lovable Free",
+    "dealBadge": "Free Plan Available",
+    "promoNote": "Founders, product builders, and teams shipping full-stack web apps and MVPs rapidly from prompts",
+    "isAffiliateActive": false
+  },
+  "manus": {
+    "affiliateUrl": "https://manus.im?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Manus Free",
+    "dealBadge": "Free Plan Available",
+    "promoNote": "Analysts, operators, and builders delegating autonomous multi-step web research and deliverables",
+    "isAffiliateActive": false
+  },
+  "anytype": {
+    "affiliateUrl": "https://anytype.io?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Anytype Free",
+    "dealBadge": "Free Plan Available",
+    "promoNote": "Privacy-conscious knowledge workers, researchers, and teams wanting an offline-first Notion alternative",
+    "isAffiliateActive": false
   }
 }

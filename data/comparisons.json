@@ -19,13 +19,48 @@
       "You love customizing workflows with 1,500+ community plugins and Graph View"
     ],
     "comparisonTable": [
-      { "feature": "Core Pricing", "toolAValue": "Free solo / $10+ per user/mo", "toolBValue": "$0 free core (Sync from $4/mo)", "winner": "B" },
-      { "feature": "Data Storage", "toolAValue": "Cloud-hosted proprietary database", "toolBValue": "100% local plain Markdown files", "winner": "B" },
-      { "feature": "Real-Time Team Collaboration", "toolAValue": "Best-in-class multiplayer & comments", "toolBValue": "Limited (via Sync shared vaults)", "winner": "A" },
-      { "feature": "Native Databases & Views", "toolAValue": "Table, Board, Timeline, Calendar", "toolBValue": "Requires community Dataview plugin", "winner": "A" },
-      { "feature": "Speed & Offline Reliability", "toolAValue": "Can lag on large databases; weak offline", "toolBValue": "Instant local performance; 100% offline", "winner": "B" },
-      { "feature": "Built-In AI Features", "toolAValue": "Notion AI Q&A & agents (Business)", "toolBValue": "Via optional community AI plugins", "winner": "A" },
-      { "feature": "Extensibility", "toolAValue": "Templates, API & integrations", "toolBValue": "1,500+ deep local community plugins", "winner": "B" }
+      {
+        "feature": "Core Pricing",
+        "toolAValue": "Free solo / $10+ per user/mo",
+        "toolBValue": "$0 free core (Sync from $4/mo)",
+        "winner": "B"
+      },
+      {
+        "feature": "Data Storage",
+        "toolAValue": "Cloud-hosted proprietary database",
+        "toolBValue": "100% local plain Markdown files",
+        "winner": "B"
+      },
+      {
+        "feature": "Real-Time Team Collaboration",
+        "toolAValue": "Best-in-class multiplayer & comments",
+        "toolBValue": "Limited (via Sync shared vaults)",
+        "winner": "A"
+      },
+      {
+        "feature": "Native Databases & Views",
+        "toolAValue": "Table, Board, Timeline, Calendar",
+        "toolBValue": "Requires community Dataview plugin",
+        "winner": "A"
+      },
+      {
+        "feature": "Speed & Offline Reliability",
+        "toolAValue": "Can lag on large databases; weak offline",
+        "toolBValue": "Instant local performance; 100% offline",
+        "winner": "B"
+      },
+      {
+        "feature": "Built-In AI Features",
+        "toolAValue": "Notion AI Q&A & agents (Business)",
+        "toolBValue": "Via optional community AI plugins",
+        "winner": "A"
+      },
+      {
+        "feature": "Extensibility",
+        "toolAValue": "Templates, API & integrations",
+        "toolBValue": "1,500+ deep local community plugins",
+        "winner": "B"
+      }
     ],
     "faqs": [
       {
@@ -67,13 +102,48 @@
       "You want built-in team Chat and Whiteboards beside tasks"
     ],
     "comparisonTable": [
-      { "feature": "Starting Paid Price", "toolAValue": "$10/user/mo (Plus annual)", "toolBValue": "$9/user/mo (Core annual)", "winner": "B" },
-      { "feature": "Free Plan for Teams", "toolAValue": "Limited team block trial", "toolBValue": "Unlimited tasks & users (60 MB)", "winner": "B" },
-      { "feature": "Docs & Company Wikis", "toolAValue": "Category-leading UX & hierarchy", "toolBValue": "Capable Docs, less fluid UI", "winner": "A" },
-      { "feature": "Task & Sprint Controls", "toolAValue": "Flexible database-backed Projects", "toolBValue": "Deep subtasks, dependencies & time tracking", "winner": "B" },
-      { "feature": "Ease of Onboarding", "toolAValue": "Clean blocks, easier daily adoption", "toolBValue": "Steeper setup fatigue from menu density", "winner": "A" },
-      { "feature": "AI Pricing Model", "toolAValue": "Bundled in $20/mo Business tier", "toolBValue": "Separate add-on or Max tier", "winner": "A" },
-      { "feature": "Native Team Chat", "toolAValue": "Comments & Slack sync (no native chat)", "toolBValue": "Built-in ClickUp Chat", "winner": "B" }
+      {
+        "feature": "Starting Paid Price",
+        "toolAValue": "$10/user/mo (Plus annual)",
+        "toolBValue": "$9/user/mo (Core annual)",
+        "winner": "B"
+      },
+      {
+        "feature": "Free Plan for Teams",
+        "toolAValue": "Limited team block trial",
+        "toolBValue": "Unlimited tasks & users (60 MB)",
+        "winner": "B"
+      },
+      {
+        "feature": "Docs & Company Wikis",
+        "toolAValue": "Category-leading UX & hierarchy",
+        "toolBValue": "Capable Docs, less fluid UI",
+        "winner": "A"
+      },
+      {
+        "feature": "Task & Sprint Controls",
+        "toolAValue": "Flexible database-backed Projects",
+        "toolBValue": "Deep subtasks, dependencies & time tracking",
+        "winner": "B"
+      },
+      {
+        "feature": "Ease of Onboarding",
+        "toolAValue": "Clean blocks, easier daily adoption",
+        "toolBValue": "Steeper setup fatigue from menu density",
+        "winner": "A"
+      },
+      {
+        "feature": "AI Pricing Model",
+        "toolAValue": "Bundled in $20/mo Business tier",
+        "toolBValue": "Separate add-on or Max tier",
+        "winner": "A"
+      },
+      {
+        "feature": "Native Team Chat",
+        "toolAValue": "Comments & Slack sync (no native chat)",
+        "toolBValue": "Built-in ClickUp Chat",
+        "winner": "B"
+      }
     ],
     "faqs": [
       {
@@ -115,13 +185,48 @@
       "You prefer automated sprint Cycles and clean product Roadmaps"
     ],
     "comparisonTable": [
-      { "feature": "Paid Entry Price", "toolAValue": "$9/user/mo (Core)", "toolBValue": "$10/user/mo (Basic)", "winner": "A" },
-      { "feature": "Free Tier Cap", "toolAValue": "Unlimited tasks (60 MB storage)", "toolBValue": "250 active issues, 2 teams", "winner": "A" },
-      { "feature": "UI Speed & Performance", "toolAValue": "Feature-heavy, occasionally sluggish", "toolBValue": "Sub-50ms local-sync architecture", "winner": "B" },
-      { "feature": "GitHub / GitLab Workflow", "toolAValue": "Good integrations", "toolBValue": "Best-in-class two-way PR automation", "winner": "B" },
-      { "feature": "Non-Engineering Teams", "toolAValue": "Docs, Chat, Time Tracking & Forms", "toolBValue": "Rigidly tailored to software teams", "winner": "A" },
-      { "feature": "AI Features", "toolAValue": "ClickUp Brain (add-on / Max)", "toolBValue": "Triage & Code Intelligence (Business)", "winner": "tie" },
-      { "feature": "Setup & Maintenance", "toolAValue": "High customization, high admin overhead", "toolBValue": "Opinionated defaults work out of the box", "winner": "B" }
+      {
+        "feature": "Paid Entry Price",
+        "toolAValue": "$9/user/mo (Core)",
+        "toolBValue": "$10/user/mo (Basic)",
+        "winner": "A"
+      },
+      {
+        "feature": "Free Tier Cap",
+        "toolAValue": "Unlimited tasks (60 MB storage)",
+        "toolBValue": "250 active issues, 2 teams",
+        "winner": "A"
+      },
+      {
+        "feature": "UI Speed & Performance",
+        "toolAValue": "Feature-heavy, occasionally sluggish",
+        "toolBValue": "Sub-50ms local-sync architecture",
+        "winner": "B"
+      },
+      {
+        "feature": "GitHub / GitLab Workflow",
+        "toolAValue": "Good integrations",
+        "toolBValue": "Best-in-class two-way PR automation",
+        "winner": "B"
+      },
+      {
+        "feature": "Non-Engineering Teams",
+        "toolAValue": "Docs, Chat, Time Tracking & Forms",
+        "toolBValue": "Rigidly tailored to software teams",
+        "winner": "A"
+      },
+      {
+        "feature": "AI Features",
+        "toolAValue": "ClickUp Brain (add-on / Max)",
+        "toolBValue": "Triage & Code Intelligence (Business)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Setup & Maintenance",
+        "toolAValue": "High customization, high admin overhead",
+        "toolBValue": "Opinionated defaults work out of the box",
+        "winner": "B"
+      }
     ],
     "faqs": [
       {
@@ -163,12 +268,42 @@
       "You want Triage Intelligence and clean product Roadmaps built for shipping code"
     ],
     "comparisonTable": [
-      { "feature": "Primary Strength", "toolAValue": "Company wikis, docs & flexible databases", "toolBValue": "High-velocity engineering issue tracking", "winner": "tie" },
-      { "feature": "Entry Paid Pricing", "toolAValue": "$10/user/mo (Plus annual)", "toolBValue": "$10/user/mo (Basic annual)", "winner": "tie" },
-      { "feature": "Issue Triage Speed", "toolAValue": "Slower modal/page loading", "toolBValue": "Instant sub-50ms keyboard workflows", "winner": "B" },
-      { "feature": "Documentation & Wikis", "toolAValue": "World-class modular editor", "toolBValue": "Basic project descriptions only", "winner": "A" },
-      { "feature": "GitHub / Sentry Sync", "toolAValue": "Basic link previews & webhooks", "toolBValue": "Native PR-to-issue automation", "winner": "B" },
-      { "feature": "AI Capabilities", "toolAValue": "Bundled Notion AI in Business ($20)", "toolBValue": "Triage & Code Intelligence in Business ($16)", "winner": "tie" }
+      {
+        "feature": "Primary Strength",
+        "toolAValue": "Company wikis, docs & flexible databases",
+        "toolBValue": "High-velocity engineering issue tracking",
+        "winner": "tie"
+      },
+      {
+        "feature": "Entry Paid Pricing",
+        "toolAValue": "$10/user/mo (Plus annual)",
+        "toolBValue": "$10/user/mo (Basic annual)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Issue Triage Speed",
+        "toolAValue": "Slower modal/page loading",
+        "toolBValue": "Instant sub-50ms keyboard workflows",
+        "winner": "B"
+      },
+      {
+        "feature": "Documentation & Wikis",
+        "toolAValue": "World-class modular editor",
+        "toolBValue": "Basic project descriptions only",
+        "winner": "A"
+      },
+      {
+        "feature": "GitHub / Sentry Sync",
+        "toolAValue": "Basic link previews & webhooks",
+        "toolBValue": "Native PR-to-issue automation",
+        "winner": "B"
+      },
+      {
+        "feature": "AI Capabilities",
+        "toolAValue": "Bundled Notion AI in Business ($20)",
+        "toolBValue": "Triage & Code Intelligence in Business ($16)",
+        "winner": "tie"
+      }
     ],
     "faqs": [
       {
@@ -210,12 +345,42 @@
       "You qualify for Perplexity's $10/mo Education Pro student discount"
     ],
     "comparisonTable": [
-      { "feature": "Paid Entry Price", "toolAValue": "$8/mo Go / $20/mo Plus", "toolBValue": "$10/mo Edu / $20/mo Pro", "winner": "A" },
-      { "feature": "Web Citations & Transparency", "toolAValue": "Good inline links in Search mode", "toolBValue": "Industry-best clickable source cards", "winner": "B" },
-      { "feature": "Model Choice", "toolAValue": "OpenAI models only", "toolBValue": "Switch between Claude, GPT & Sonar", "winner": "B" },
-      { "feature": "Image Generation & Voice", "toolAValue": "Built-in native image gen & Voice Mode", "toolBValue": "Not built for voice/creative media", "winner": "A" },
-      { "feature": "Coding & Spreadsheet Sandbox", "toolAValue": "Full Python interpreter & Canvas", "toolBValue": "Basic code snippets & file Q&A", "winner": "A" },
-      { "feature": "Deep Research Speed", "toolAValue": "Thorough multi-step synthesis", "toolBValue": "Fast, source-dense executive briefs", "winner": "tie" }
+      {
+        "feature": "Paid Entry Price",
+        "toolAValue": "$8/mo Go / $20/mo Plus",
+        "toolBValue": "$10/mo Edu / $20/mo Pro",
+        "winner": "A"
+      },
+      {
+        "feature": "Web Citations & Transparency",
+        "toolAValue": "Good inline links in Search mode",
+        "toolBValue": "Industry-best clickable source cards",
+        "winner": "B"
+      },
+      {
+        "feature": "Model Choice",
+        "toolAValue": "OpenAI models only",
+        "toolBValue": "Switch between Claude, GPT & Sonar",
+        "winner": "B"
+      },
+      {
+        "feature": "Image Generation & Voice",
+        "toolAValue": "Built-in native image gen & Voice Mode",
+        "toolBValue": "Not built for voice/creative media",
+        "winner": "A"
+      },
+      {
+        "feature": "Coding & Spreadsheet Sandbox",
+        "toolAValue": "Full Python interpreter & Canvas",
+        "toolBValue": "Basic code snippets & file Q&A",
+        "winner": "A"
+      },
+      {
+        "feature": "Deep Research Speed",
+        "toolAValue": "Thorough multi-step synthesis",
+        "toolBValue": "Fast, source-dense executive briefs",
+        "winner": "tie"
+      }
     ],
     "faqs": [
       {
@@ -257,13 +422,48 @@
       "You want $17/mo annual Pro pricing ($200/yr) and large-document accuracy"
     ],
     "comparisonTable": [
-      { "feature": "Standard Paid Plan", "toolAValue": "$20/mo Plus ($8/mo Go entry)", "toolBValue": "$20/mo Pro ($17/mo billed annually)", "winner": "B" },
-      { "feature": "Writing Tone & Nuance", "toolAValue": "Versatile but sometimes formulaic", "toolBValue": "Widely favored for natural human prose", "winner": "B" },
-      { "feature": "Developer Coding", "toolAValue": "Strong Canvas & code interpreter", "toolBValue": "Claude Code CLI + exceptional refactoring", "winner": "B" },
-      { "feature": "Multimodal Media (Image/Voice)", "toolAValue": "Built-in image gen & Advanced Voice", "toolBValue": "No native image generator", "winner": "A" },
-      { "feature": "Interactive Previews", "toolAValue": "Canvas for docs & code", "toolBValue": "Live React/HTML/SVG Artifacts", "winner": "B" },
-      { "feature": "Power-User Ceiling", "toolAValue": "Pro tiers at $100 / $200 / $500", "toolBValue": "Max $100 / Ultra $200 (10x Pro)", "winner": "tie" },
-      { "feature": "Session Rate Limits", "toolAValue": "Generally more forgiving on Plus", "toolBValue": "Stricter 5-hour session windows on Pro", "winner": "A" }
+      {
+        "feature": "Standard Paid Plan",
+        "toolAValue": "$20/mo Plus ($8/mo Go entry)",
+        "toolBValue": "$20/mo Pro ($17/mo billed annually)",
+        "winner": "B"
+      },
+      {
+        "feature": "Writing Tone & Nuance",
+        "toolAValue": "Versatile but sometimes formulaic",
+        "toolBValue": "Widely favored for natural human prose",
+        "winner": "B"
+      },
+      {
+        "feature": "Developer Coding",
+        "toolAValue": "Strong Canvas & code interpreter",
+        "toolBValue": "Claude Code CLI + exceptional refactoring",
+        "winner": "B"
+      },
+      {
+        "feature": "Multimodal Media (Image/Voice)",
+        "toolAValue": "Built-in image gen & Advanced Voice",
+        "toolBValue": "No native image generator",
+        "winner": "A"
+      },
+      {
+        "feature": "Interactive Previews",
+        "toolAValue": "Canvas for docs & code",
+        "toolBValue": "Live React/HTML/SVG Artifacts",
+        "winner": "B"
+      },
+      {
+        "feature": "Power-User Ceiling",
+        "toolAValue": "Pro tiers at $100 / $200 / $500",
+        "toolBValue": "Max $100 / Ultra $200 (10x Pro)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Session Rate Limits",
+        "toolAValue": "Generally more forgiving on Plus",
+        "toolBValue": "Stricter 5-hour session windows on Pro",
+        "winner": "A"
+      }
     ],
     "faqs": [
       {
@@ -305,12 +505,42 @@
       "You qualify for the $10/mo Education Pro student plan"
     ],
     "comparisonTable": [
-      { "feature": "Pro Monthly / Annual Price", "toolAValue": "$20/mo ($17/mo billed annually)", "toolBValue": "$20/mo (~$17/mo billed annually)", "winner": "tie" },
-      { "feature": "Live Web Citations", "toolAValue": "Supports web search, lighter citation UI", "toolBValue": "Purpose-built citation & Focus engine", "winner": "B" },
-      { "feature": "Long-Form Writing & Tone", "toolAValue": "Full Projects context & Artifacts", "toolBValue": "Geared toward concise research answers", "winner": "A" },
-      { "feature": "Software Engineering", "toolAValue": "Claude Code CLI + full Artifact sandboxes", "toolBValue": "Snippet explanations only", "winner": "A" },
-      { "feature": "Multi-Model Access", "toolAValue": "Anthropic Claude models only", "toolBValue": "Claude, GPT & Sonar model picker", "winner": "B" },
-      { "feature": "Student Discount", "toolAValue": "Standard consumer pricing", "toolBValue": "$10/mo Education Pro", "winner": "B" }
+      {
+        "feature": "Pro Monthly / Annual Price",
+        "toolAValue": "$20/mo ($17/mo billed annually)",
+        "toolBValue": "$20/mo (~$17/mo billed annually)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Live Web Citations",
+        "toolAValue": "Supports web search, lighter citation UI",
+        "toolBValue": "Purpose-built citation & Focus engine",
+        "winner": "B"
+      },
+      {
+        "feature": "Long-Form Writing & Tone",
+        "toolAValue": "Full Projects context & Artifacts",
+        "toolBValue": "Geared toward concise research answers",
+        "winner": "A"
+      },
+      {
+        "feature": "Software Engineering",
+        "toolAValue": "Claude Code CLI + full Artifact sandboxes",
+        "toolBValue": "Snippet explanations only",
+        "winner": "A"
+      },
+      {
+        "feature": "Multi-Model Access",
+        "toolAValue": "Anthropic Claude models only",
+        "toolBValue": "Claude, GPT & Sonar model picker",
+        "winner": "B"
+      },
+      {
+        "feature": "Student Discount",
+        "toolAValue": "Standard consumer pricing",
+        "toolBValue": "$10/mo Education Pro",
+        "winner": "B"
+      }
     ],
     "faqs": [
       {
@@ -352,12 +582,42 @@
       "You want dedicated enterprise approval flows and customer success"
     ],
     "comparisonTable": [
-      { "feature": "Entry Paid Price", "toolAValue": "$8/mo Go / $20/mo Plus", "toolBValue": "$59/mo Pro annual ($69 monthly)", "winner": "A" },
-      { "feature": "Free Forever Plan", "toolAValue": "Yes ($0 Free tier)", "toolBValue": "No (7-day free trial only)", "winner": "A" },
-      { "feature": "Brand Voice & Guardrails", "toolAValue": "Custom GPTs & Project instructions", "toolBValue": "Purpose-built Brand Voices & style assets", "winner": "B" },
-      { "feature": "Marketing Workflow Agents", "toolAValue": "Generalist chat + Canvas", "toolBValue": "Turnkey campaign & SEO marketing agents", "winner": "B" },
-      { "feature": "Research & Image Generation", "toolAValue": "Deep Research, Python & native images", "toolBValue": "Marketing-focused image/copy helpers", "winner": "A" },
-      { "feature": "Overall Value Per Dollar", "toolAValue": "Massive breadth for $20/mo", "toolBValue": "Niche enterprise marketing premium", "winner": "A" }
+      {
+        "feature": "Entry Paid Price",
+        "toolAValue": "$8/mo Go / $20/mo Plus",
+        "toolBValue": "$59/mo Pro annual ($69 monthly)",
+        "winner": "A"
+      },
+      {
+        "feature": "Free Forever Plan",
+        "toolAValue": "Yes ($0 Free tier)",
+        "toolBValue": "No (7-day free trial only)",
+        "winner": "A"
+      },
+      {
+        "feature": "Brand Voice & Guardrails",
+        "toolAValue": "Custom GPTs & Project instructions",
+        "toolBValue": "Purpose-built Brand Voices & style assets",
+        "winner": "B"
+      },
+      {
+        "feature": "Marketing Workflow Agents",
+        "toolAValue": "Generalist chat + Canvas",
+        "toolBValue": "Turnkey campaign & SEO marketing agents",
+        "winner": "B"
+      },
+      {
+        "feature": "Research & Image Generation",
+        "toolAValue": "Deep Research, Python & native images",
+        "toolBValue": "Marketing-focused image/copy helpers",
+        "winner": "A"
+      },
+      {
+        "feature": "Overall Value Per Dollar",
+        "toolAValue": "Massive breadth for $20/mo",
+        "toolBValue": "Niche enterprise marketing premium",
+        "winner": "A"
+      }
     ],
     "faqs": [
       {
@@ -399,12 +659,42 @@
       "You prefer $17/mo annual Pro pricing ($100 Max for heavy agent loops)"
     ],
     "comparisonTable": [
-      { "feature": "Paid Entry Price", "toolAValue": "$8/mo Plus / $30/mo Premium", "toolBValue": "$20/mo Pro ($17/mo annual)", "winner": "tie" },
-      { "feature": "Inline Tab Autocomplete", "toolAValue": "Best-in-class predictive Tab diffs", "toolBValue": "None (CLI / web assistant)", "winner": "A" },
-      { "feature": "Terminal & Test Autonomy", "toolAValue": "Integrated IDE Agent + Cloud Agents", "toolBValue": "Claude Code shines in autonomous shell loops", "winner": "B" },
-      { "feature": "Editor Lock-In", "toolAValue": "Requires using Cursor (VS Code fork)", "toolBValue": "Works alongside any IDE or terminal", "winner": "B" },
-      { "feature": "Non-Coding Utility", "toolAValue": "Coding-only IDE", "toolBValue": "Top writing, research & Artifacts suite", "winner": "B" },
-      { "feature": "Visual Diff & Code Review", "toolAValue": "Rich inline diff UI + Bugbot", "toolBValue": "Terminal diff review", "winner": "A" }
+      {
+        "feature": "Paid Entry Price",
+        "toolAValue": "$8/mo Plus / $30/mo Premium",
+        "toolBValue": "$20/mo Pro ($17/mo annual)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Inline Tab Autocomplete",
+        "toolAValue": "Best-in-class predictive Tab diffs",
+        "toolBValue": "None (CLI / web assistant)",
+        "winner": "A"
+      },
+      {
+        "feature": "Terminal & Test Autonomy",
+        "toolAValue": "Integrated IDE Agent + Cloud Agents",
+        "toolBValue": "Claude Code shines in autonomous shell loops",
+        "winner": "B"
+      },
+      {
+        "feature": "Editor Lock-In",
+        "toolAValue": "Requires using Cursor (VS Code fork)",
+        "toolBValue": "Works alongside any IDE or terminal",
+        "winner": "B"
+      },
+      {
+        "feature": "Non-Coding Utility",
+        "toolAValue": "Coding-only IDE",
+        "toolBValue": "Top writing, research & Artifacts suite",
+        "winner": "B"
+      },
+      {
+        "feature": "Visual Diff & Code Review",
+        "toolAValue": "Rich inline diff UI + Bugbot",
+        "toolBValue": "Terminal diff review",
+        "winner": "A"
+      }
     ],
     "faqs": [
       {
@@ -446,12 +736,42 @@
       "You want style references (--sref) and granular aesthetic consistency"
     ],
     "comparisonTable": [
-      { "feature": "Free Tier Availability", "toolAValue": "Yes (Free tier with standard caps)", "toolBValue": "No free tier ($10/mo Basic minimum)", "winner": "A" },
-      { "feature": "Artistic Aesthetics & Lighting", "toolAValue": "Clean, commercial digital look", "toolBValue": "Unmatched painterly & cinematic craft", "winner": "B" },
-      { "feature": "Text & Spelling Accuracy", "toolAValue": "Highly accurate multi-word text", "toolBValue": "Improved, still prone to typos", "winner": "A" },
-      { "feature": "Complex Prompt Adherence", "toolAValue": "Follows multi-object spatial logic well", "toolBValue": "Prioritizes mood over strict layout", "winner": "A" },
-      { "feature": "High-Volume Value", "toolAValue": "Rate-limited hourly/daily image caps", "toolBValue": "Unlimited Relax mode on $30/mo Standard", "winner": "B" },
-      { "feature": "Extra Capabilities", "toolAValue": "Full AI assistant (code, search, voice)", "toolBValue": "Image & video visual generation only", "winner": "A" }
+      {
+        "feature": "Free Tier Availability",
+        "toolAValue": "Yes (Free tier with standard caps)",
+        "toolBValue": "No free tier ($10/mo Basic minimum)",
+        "winner": "A"
+      },
+      {
+        "feature": "Artistic Aesthetics & Lighting",
+        "toolAValue": "Clean, commercial digital look",
+        "toolBValue": "Unmatched painterly & cinematic craft",
+        "winner": "B"
+      },
+      {
+        "feature": "Text & Spelling Accuracy",
+        "toolAValue": "Highly accurate multi-word text",
+        "toolBValue": "Improved, still prone to typos",
+        "winner": "A"
+      },
+      {
+        "feature": "Complex Prompt Adherence",
+        "toolAValue": "Follows multi-object spatial logic well",
+        "toolBValue": "Prioritizes mood over strict layout",
+        "winner": "A"
+      },
+      {
+        "feature": "High-Volume Value",
+        "toolAValue": "Rate-limited hourly/daily image caps",
+        "toolBValue": "Unlimited Relax mode on $30/mo Standard",
+        "winner": "B"
+      },
+      {
+        "feature": "Extra Capabilities",
+        "toolAValue": "Full AI assistant (code, search, voice)",
+        "toolBValue": "Image & video visual generation only",
+        "winner": "A"
+      }
     ],
     "faqs": [
       {
@@ -469,6 +789,189 @@
       {
         "question": "How much does unlimited image generation cost on Midjourney?",
         "answer": "Midjourney's Standard plan ($30/mo, or $24/mo billed annually) includes 15 Fast GPU hours plus unlimited Relax mode image generation."
+      }
+    ],
+    "lastUpdated": "2026-11-22"
+  },
+  {
+    "slug": "lovable-vs-cursor",
+    "toolASlug": "lovable",
+    "toolBSlug": "cursor",
+    "title": "Lovable vs Cursor (2026): Pricing, Features & Verdict",
+    "metaDescription": "Compare Lovable vs Cursor in 2026 across pricing ($25/mo vs $8/mo), free tiers, pros, cons, and workflow fit.",
+    "intro": "Choosing between Lovable and Cursor comes down to pricing flexibility, feature depth, and how your team prefers to work in 2026.",
+    "verdictSummary": "Choose Lovable for founders, product builders, and teams shipping full-stack web apps and mvps rapidly from prompts. Choose Cursor for software engineers and startup builders shipping production code fast inside a vs code-style ide. Overall edge goes to Cursor (4.8/5 rating).",
+    "winnerSlug": "cursor",
+    "chooseAIf": [
+      "You prioritize founders, product builders, and teams shipping full-stack web apps and mvps rapidly from prompts",
+      "Fast prompt-to-live-app prototyping with clean UI defaults",
+      "You want Lovable's $0 free tier"
+    ],
+    "chooseBIf": [
+      "You prioritize software engineers and startup builders shipping production code fast inside a vs code-style ide",
+      "Gold-standard UX for multi-file AI editing and rapid prototyping inside a visual IDE",
+      "You want Cursor's $0 free tier"
+    ],
+    "comparisonTable": [
+      {
+        "feature": "Paid Starting Price",
+        "toolAValue": "$25/mo",
+        "toolBValue": "$8/mo",
+        "winner": "B"
+      },
+      {
+        "feature": "Free Tier Available",
+        "toolAValue": "Yes ($0)",
+        "toolBValue": "Yes ($0)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Primary Focus",
+        "toolAValue": "Founders, product builders, and teams shipping full-stack web apps and MVPs rapidly from prompts",
+        "toolBValue": "Software engineers and startup builders shipping production code fast inside a VS Code-style IDE",
+        "winner": "tie"
+      },
+      {
+        "feature": "User Rating",
+        "toolAValue": "4.6/5",
+        "toolBValue": "4.8/5",
+        "winner": "B"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which is cheaper in 2026: Lovable or Cursor?",
+        "answer": "Lovable paid tiers start at $25/mo (free plan available), compared to Cursor at $8/mo (free plan available)."
+      },
+      {
+        "question": "Who should choose Lovable over Cursor?",
+        "answer": "Lovable is ideal for founders, product builders, and teams shipping full-stack web apps and mvps rapidly from prompts."
+      },
+      {
+        "question": "Who should choose Cursor instead?",
+        "answer": "Cursor is the stronger choice for software engineers and startup builders shipping production code fast inside a vs code-style ide."
+      }
+    ],
+    "lastUpdated": "2026-11-22"
+  },
+  {
+    "slug": "manus-vs-claude",
+    "toolASlug": "manus",
+    "toolBSlug": "claude",
+    "title": "Manus vs Claude (2026): Pricing, Features & Verdict",
+    "metaDescription": "Compare Manus vs Claude in 2026 across pricing ($20/mo vs $17/mo), free tiers, pros, cons, and workflow fit.",
+    "intro": "Choosing between Manus and Claude comes down to pricing flexibility, feature depth, and how your team prefers to work in 2026.",
+    "verdictSummary": "Choose Manus for analysts, operators, and builders delegating autonomous multi-step web research and deliverables. Choose Claude for writers, product managers, and software engineers prioritizing writing nuance and deep reasoning. Overall edge goes to Claude (4.9/5 rating).",
+    "winnerSlug": "claude",
+    "chooseAIf": [
+      "You prioritize analysts, operators, and builders delegating autonomous multi-step web research and deliverables",
+      "Handles long-horizon multi-step research and execution autonomously",
+      "You want Manus's $0 free tier"
+    ],
+    "chooseBIf": [
+      "You prioritize writers, product managers, and software engineers prioritizing writing nuance and deep reasoning",
+      "Widely preferred by writers and engineers for prose quality and careful coding logic",
+      "You want Claude's $0 free tier"
+    ],
+    "comparisonTable": [
+      {
+        "feature": "Paid Starting Price",
+        "toolAValue": "$20/mo",
+        "toolBValue": "$17/mo",
+        "winner": "B"
+      },
+      {
+        "feature": "Free Tier Available",
+        "toolAValue": "Yes ($0)",
+        "toolBValue": "Yes ($0)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Primary Focus",
+        "toolAValue": "Analysts, operators, and builders delegating autonomous multi-step web research and deliverables",
+        "toolBValue": "Writers, product managers, and software engineers prioritizing writing nuance and deep reasoning",
+        "winner": "tie"
+      },
+      {
+        "feature": "User Rating",
+        "toolAValue": "4.5/5",
+        "toolBValue": "4.9/5",
+        "winner": "B"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which is cheaper in 2026: Manus or Claude?",
+        "answer": "Manus paid tiers start at $20/mo (free plan available), compared to Claude at $17/mo (free plan available)."
+      },
+      {
+        "question": "Who should choose Manus over Claude?",
+        "answer": "Manus is ideal for analysts, operators, and builders delegating autonomous multi-step web research and deliverables."
+      },
+      {
+        "question": "Who should choose Claude instead?",
+        "answer": "Claude is the stronger choice for writers, product managers, and software engineers prioritizing writing nuance and deep reasoning."
+      }
+    ],
+    "lastUpdated": "2026-11-22"
+  },
+  {
+    "slug": "anytype-vs-obsidian",
+    "toolASlug": "anytype",
+    "toolBSlug": "obsidian",
+    "title": "Anytype vs Obsidian (2026): Pricing, Features & Verdict",
+    "metaDescription": "Compare Anytype vs Obsidian in 2026 across pricing ($4/mo vs $0), free tiers, pros, cons, and workflow fit.",
+    "intro": "Choosing between Anytype and Obsidian comes down to pricing flexibility, feature depth, and how your team prefers to work in 2026.",
+    "verdictSummary": "Choose Anytype for privacy-conscious knowledge workers, researchers, and teams wanting an offline-first notion alternative. Choose Obsidian for researchers, developers, and lifelong learners building a fast, private second brain. Overall edge goes to Obsidian (4.9/5 rating).",
+    "winnerSlug": "obsidian",
+    "chooseAIf": [
+      "You prioritize privacy-conscious knowledge workers, researchers, and teams wanting an offline-first notion alternative",
+      "True offline local-first ownership with zero-knowledge E2EE",
+      "You want Anytype's $0 free tier"
+    ],
+    "chooseBIf": [
+      "You prioritize researchers, developers, and lifelong learners building a fast, private second brain",
+      "Completely free for both personal and commercial use with zero feature paywalls",
+      "You want Obsidian's $0 free tier"
+    ],
+    "comparisonTable": [
+      {
+        "feature": "Paid Starting Price",
+        "toolAValue": "$4/mo",
+        "toolBValue": "$0",
+        "winner": "B"
+      },
+      {
+        "feature": "Free Tier Available",
+        "toolAValue": "Yes ($0)",
+        "toolBValue": "Yes ($0)",
+        "winner": "tie"
+      },
+      {
+        "feature": "Primary Focus",
+        "toolAValue": "Privacy-conscious knowledge workers, researchers, and teams wanting an offline-first Notion alternative",
+        "toolBValue": "Researchers, developers, and lifelong learners building a fast, private second brain",
+        "winner": "tie"
+      },
+      {
+        "feature": "User Rating",
+        "toolAValue": "4.6/5",
+        "toolBValue": "4.9/5",
+        "winner": "B"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which is cheaper in 2026: Anytype or Obsidian?",
+        "answer": "Anytype paid tiers start at $4/mo (free plan available), compared to Obsidian at $0 (free plan available)."
+      },
+      {
+        "question": "Who should choose Anytype over Obsidian?",
+        "answer": "Anytype is ideal for privacy-conscious knowledge workers, researchers, and teams wanting an offline-first notion alternative."
+      },
+      {
+        "question": "Who should choose Obsidian instead?",
+        "answer": "Obsidian is the stronger choice for researchers, developers, and lifelong learners building a fast, private second brain."
       }
     ],
     "lastUpdated": "2026-11-22"

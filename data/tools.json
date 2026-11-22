@@ -70,12 +70,22 @@
       "Full Notion AI features require upgrading to the $20/user/mo Business tier"
     ],
     "bestFor": "Cross-functional product, ops, and startup teams consolidating docs and lightweight project tracking",
-    "platforms": ["Web", "macOS", "Windows", "iOS", "Android"],
+    "platforms": [
+      "Web",
+      "macOS",
+      "Windows",
+      "iOS",
+      "Android"
+    ],
     "rating": 4.7,
     "reviewCount": 6420,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["notion.so", "getpricepulse.com", "coworker.ai"]
+    "sources": [
+      "notion.so",
+      "getpricepulse.com",
+      "coworker.ai"
+    ]
   },
   {
     "slug": "midjourney",
@@ -148,12 +158,19 @@
       "Typography and exact multi-word text rendering still lag behind Ideogram"
     ],
     "bestFor": "Art directors, illustrators, marketers, and studios prioritizing peak visual aesthetics",
-    "platforms": ["Web", "Discord"],
+    "platforms": [
+      "Web",
+      "Discord"
+    ],
     "rating": 4.8,
     "reviewCount": 4890,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["midjourney.com", "felloai.com", "nocode.mba"]
+    "sources": [
+      "midjourney.com",
+      "felloai.com",
+      "nocode.mba"
+    ]
   },
   {
     "slug": "cursor",
@@ -226,12 +243,20 @@
       "Third-party model usage on Premium can incur API list-price overages"
     ],
     "bestFor": "Software engineers and startup builders shipping production code fast inside a VS Code-style IDE",
-    "platforms": ["macOS", "Windows", "Linux"],
+    "platforms": [
+      "macOS",
+      "Windows",
+      "Linux"
+    ],
     "rating": 4.8,
     "reviewCount": 5310,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["cursor.com", "coworker.ai", "minware.com"]
+    "sources": [
+      "cursor.com",
+      "coworker.ai",
+      "minware.com"
+    ]
   },
   {
     "slug": "jasper",
@@ -284,12 +309,19 @@
       "Solo bloggers or developers often find general-purpose LLMs more flexible"
     ],
     "bestFor": "In-house marketing teams and agencies needing strict Brand Voice compliance across channels",
-    "platforms": ["Web", "Chrome Extension"],
+    "platforms": [
+      "Web",
+      "Chrome Extension"
+    ],
     "rating": 4.4,
     "reviewCount": 3180,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["hyperwriteai.com", "seosorted.ai", "layer3labs.io"]
+    "sources": [
+      "hyperwriteai.com",
+      "seosorted.ai",
+      "layer3labs.io"
+    ]
   },
   {
     "slug": "perplexity",
@@ -362,12 +394,22 @@
       "Occasionally cites SEO-heavy web pages if source filtering isn't tuned"
     ],
     "bestFor": "Analysts, founders, students, and knowledge workers doing fast, fact-checked research",
-    "platforms": ["Web", "macOS", "Windows", "iOS", "Android"],
+    "platforms": [
+      "Web",
+      "macOS",
+      "Windows",
+      "iOS",
+      "Android"
+    ],
     "rating": 4.8,
     "reviewCount": 4750,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["perplexity.ai", "gosearch.ai", "justinmckelvey.com"]
+    "sources": [
+      "perplexity.ai",
+      "gosearch.ai",
+      "justinmckelvey.com"
+    ]
   },
   {
     "slug": "chatgpt",
@@ -440,12 +482,22 @@
       "Web search citations are slightly less structured for pure research than Perplexity"
     ],
     "bestFor": "Everyday professionals and teams wanting a single Swiss-army-knife AI subscription",
-    "platforms": ["Web", "macOS", "Windows", "iOS", "Android"],
+    "platforms": [
+      "Web",
+      "macOS",
+      "Windows",
+      "iOS",
+      "Android"
+    ],
     "rating": 4.8,
     "reviewCount": 14200,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["nocode.mba", "enrichlabs.ai", "fritz.ai"]
+    "sources": [
+      "nocode.mba",
+      "enrichlabs.ai",
+      "fritz.ai"
+    ]
   },
   {
     "slug": "claude",
@@ -518,12 +570,23 @@
       "Power developers often need the $100 Max or $200 Ultra plan"
     ],
     "bestFor": "Writers, product managers, and software engineers prioritizing writing nuance and deep reasoning",
-    "platforms": ["Web", "macOS", "Windows", "iOS", "Android", "CLI"],
+    "platforms": [
+      "Web",
+      "macOS",
+      "Windows",
+      "iOS",
+      "Android",
+      "CLI"
+    ],
     "rating": 4.9,
     "reviewCount": 8950,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["claude.com", "wearetandem.ai", "superapp.dev"]
+    "sources": [
+      "claude.com",
+      "wearetandem.ai",
+      "superapp.dev"
+    ]
   },
   {
     "slug": "obsidian",
@@ -596,12 +659,22 @@
       "Mobile/desktop syncing requires either Obsidian Sync ($4+/mo) or DIY iCloud/Git setup"
     ],
     "bestFor": "Researchers, developers, and lifelong learners building a fast, private second brain",
-    "platforms": ["macOS", "Windows", "Linux", "iOS", "Android"],
+    "platforms": [
+      "macOS",
+      "Windows",
+      "Linux",
+      "iOS",
+      "Android"
+    ],
     "rating": 4.9,
     "reviewCount": 5120,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["obsidian.md", "usecarly.com", "techpresso.co"]
+    "sources": [
+      "obsidian.md",
+      "usecarly.com",
+      "techpresso.co"
+    ]
   },
   {
     "slug": "clickup",
@@ -674,12 +747,23 @@
       "Full AI capabilities often require paid add-ons or high-tier Max plans"
     ],
     "bestFor": "Agencies, operations teams, and growing companies seeking one customizable hub for everything",
-    "platforms": ["Web", "macOS", "Windows", "iOS", "Android", "Linux"],
+    "platforms": [
+      "Web",
+      "macOS",
+      "Windows",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
     "rating": 4.6,
     "reviewCount": 7840,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["clickup.com", "breeze.pm", "usecarly.com"]
+    "sources": [
+      "clickup.com",
+      "breeze.pm",
+      "usecarly.com"
+    ]
   },
   {
     "slug": "linear",
@@ -752,12 +836,21 @@
       "Not a full wiki or CRM replacement—pairs best with Notion or Obsidian"
     ],
     "bestFor": "Product engineering teams and tech startups replacing clunky Jira or overloaded workspaces",
-    "platforms": ["Web", "macOS", "Windows", "iOS"],
+    "platforms": [
+      "Web",
+      "macOS",
+      "Windows",
+      "iOS"
+    ],
     "rating": 4.9,
     "reviewCount": 4210,
     "isFlagship": true,
     "lastUpdated": "2026-11-22",
-    "sources": ["linear.app", "lifestack.ai", "t0ggles.com"]
+    "sources": [
+      "linear.app",
+      "lifestack.ai",
+      "t0ggles.com"
+    ]
   },
   {
     "slug": "coda",
@@ -820,12 +913,20 @@
       "Per-Doc-Maker rate on Team ($36) climbs quickly if everyone creates new docs"
     ],
     "bestFor": "Operations, PM, and revenue teams building interactive doc-apps and connected trackers",
-    "platforms": ["Web", "iOS", "Android"],
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
     "rating": 4.6,
     "reviewCount": 2650,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["subpilot.tech", "vendorbenchmark.com", "zite.com"]
+    "sources": [
+      "subpilot.tech",
+      "vendorbenchmark.com",
+      "zite.com"
+    ]
   },
   {
     "slug": "windsurf",
@@ -898,12 +999,20 @@
       "Requires migrating away from vanilla VS Code or JetBrains"
     ],
     "bestFor": "Developers seeking a budget-friendly $20/mo agentic AI IDE with unlimited free Tab",
-    "platforms": ["macOS", "Windows", "Linux"],
+    "platforms": [
+      "macOS",
+      "Windows",
+      "Linux"
+    ],
     "rating": 4.7,
     "reviewCount": 2940,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["cloudzero.com", "metronome.com", "pecollective.com"]
+    "sources": [
+      "cloudzero.com",
+      "metronome.com",
+      "pecollective.com"
+    ]
   },
   {
     "slug": "github-copilot",
@@ -966,12 +1075,22 @@
       "Best repository integrations assume your code lives on GitHub"
     ],
     "bestFor": "Enterprise engineering orgs and JetBrains/VS Code loyalists prioritizing native compliance",
-    "platforms": ["VS Code", "JetBrains", "Visual Studio", "Neovim", "GitHub Web"],
+    "platforms": [
+      "VS Code",
+      "JetBrains",
+      "Visual Studio",
+      "Neovim",
+      "GitHub Web"
+    ],
     "rating": 4.6,
     "reviewCount": 9400,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["github.com", "opslyft.com", "activepieces.com"]
+    "sources": [
+      "github.com",
+      "opslyft.com",
+      "activepieces.com"
+    ]
   },
   {
     "slug": "copy-ai",
@@ -1034,12 +1153,18 @@
       "Interface feels geared more toward GTM ops than pure editorial blogging"
     ],
     "bestFor": "B2B marketing and revenue teams automating repetitive content and outbound workflows",
-    "platforms": ["Web"],
+    "platforms": [
+      "Web"
+    ],
     "rating": 4.4,
     "reviewCount": 2410,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["contentforce.ai", "activepieces.com", "fluxnote.io"]
+    "sources": [
+      "contentforce.ai",
+      "activepieces.com",
+      "fluxnote.io"
+    ]
   },
   {
     "slug": "ideogram",
@@ -1102,12 +1227,20 @@
       "Free tier outputs remain publicly visible"
     ],
     "bestFor": "Graphic designers, YouTubers, and marketers needing crisp text inside AI visuals",
-    "platforms": ["Web", "iOS", "API"],
+    "platforms": [
+      "Web",
+      "iOS",
+      "API"
+    ],
     "rating": 4.7,
     "reviewCount": 2190,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["ideogram.ai", "activepieces.com", "aiimagecompare.com"]
+    "sources": [
+      "ideogram.ai",
+      "activepieces.com",
+      "aiimagecompare.com"
+    ]
   },
   {
     "slug": "flux",
@@ -1170,12 +1303,20 @@
       "Navigating Schnell, Dev, Pro, and newer model branches can confuse beginners"
     ],
     "bestFor": "Developers, AI studios, and power creators wanting photorealism, LoRAs, or pay-per-image pricing",
-    "platforms": ["Local GPU", "Cloud API", "Web Partners"],
+    "platforms": [
+      "Local GPU",
+      "Cloud API",
+      "Web Partners"
+    ],
     "rating": 4.8,
     "reviewCount": 3420,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["blackforestlabs.ai", "costgoat.com", "aiimagecompare.com"]
+    "sources": [
+      "blackforestlabs.ai",
+      "costgoat.com",
+      "aiimagecompare.com"
+    ]
   },
   {
     "slug": "adobe-firefly",
@@ -1238,12 +1379,21 @@
       "Tightest value goes to users already embedded in Adobe Creative Cloud"
     ],
     "bestFor": "Commercial agencies, brand teams, and Photoshop users requiring copyright-safe AI assets",
-    "platforms": ["Web", "Photoshop", "Illustrator", "Adobe Express"],
+    "platforms": [
+      "Web",
+      "Photoshop",
+      "Illustrator",
+      "Adobe Express"
+    ],
     "rating": 4.5,
     "reviewCount": 3890,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["adobe.com", "renderahouse.com", "activepieces.com"]
+    "sources": [
+      "adobe.com",
+      "renderahouse.com",
+      "activepieces.com"
+    ]
   },
   {
     "slug": "asana",
@@ -1306,12 +1456,22 @@
       "Strict single-assignee-per-task model feels rigid for some agile setups"
     ],
     "bestFor": "Marketing, operations, and mid-to-large cross-functional organizations scaling structured processes",
-    "platforms": ["Web", "macOS", "Windows", "iOS", "Android"],
+    "platforms": [
+      "Web",
+      "macOS",
+      "Windows",
+      "iOS",
+      "Android"
+    ],
     "rating": 4.6,
     "reviewCount": 8650,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["asana.com", "superdupr.com", "zapier.com"]
+    "sources": [
+      "asana.com",
+      "superdupr.com",
+      "zapier.com"
+    ]
   },
   {
     "slug": "you-com",
@@ -1374,11 +1534,279 @@
       "Smaller brand mindshare and fewer consumer community Spaces than Perplexity"
     ],
     "bestFor": "Developers building RAG search agents and professionals wanting multi-model live web search",
-    "platforms": ["Web", "API", "iOS", "Android"],
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Android"
+    ],
     "rating": 4.3,
     "reviewCount": 1480,
     "isFlagship": false,
     "lastUpdated": "2026-11-22",
-    "sources": ["you.com", "zemith.com", "aiforbusinessautomation.com"]
+    "sources": [
+      "you.com",
+      "zemith.com",
+      "aiforbusinessautomation.com"
+    ]
+  },
+  {
+    "slug": "lovable",
+    "name": "Lovable",
+    "tagline": "AI full-stack web app builder for shipping production React and Supabase apps from natural language",
+    "description": "Lovable turns natural language prompts into full-stack web applications with built-in cloud hosting, databases, code export, and unlimited workspace collaborators sharing a credit pool.",
+    "category": "AI Coding & IDE",
+    "officialUrl": "https://lovable.dev",
+    "pricingModel": "Freemium (Credit-Based)",
+    "startingPrice": "$25/mo",
+    "startingPriceNumber": 25,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "5 daily credits (capped at ~30/mo)",
+        "highlights": [
+          "5 daily build credits resetting at 00:00 UTC",
+          "Public projects hosted on a lovable.app subdomain",
+          "20 monthly Cloud credits & unlimited collaborators"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$25/mo",
+        "billingNote": "$250/yr billed annually (~$21/mo); 100+ credits/mo",
+        "highlights": [
+          "100 to 10,000 monthly general credits via tier selector",
+          "Private projects, custom domains & full code export",
+          "2-month credit rollover, top-ups & branding removal"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "$50/mo",
+        "billingNote": "$500/yr billed annually (~$42/mo); 100+ credits/mo",
+        "highlights": [
+          "Single Sign-On (SSO) & dedicated security center",
+          "Default opt-out from AI model training",
+          "Exclusive design templates & workspace controls"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "billingNote": "Annual volume-based contract",
+        "highlights": [
+          "SCIM provisioning & audit logs",
+          "Data residency & EU inference options",
+          "Dedicated Customer Success Manager"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Prompt-to-full-stack React and cloud backend generation",
+      "Lovable Cloud built-in hosting, database, and AI feature credits",
+      "No per-seat fee with unlimited workspace collaborators",
+      "Code editing access, GitHub sync, and full code export",
+      "11 scalable monthly credit tiers from 100 to 10,000 credits"
+    ],
+    "pros": [
+      "Fast prompt-to-live-app prototyping with clean UI defaults",
+      "All plans support unlimited workspace members sharing one credit pool",
+      "Paid Pro credits roll over for up to two months while active"
+    ],
+    "cons": [
+      "Complex debugging loops can burn through monthly credits quickly",
+      "Free tier is limited to 5 daily credits on public projects",
+      "Large generated codebases eventually require manual developer refactoring"
+    ],
+    "bestFor": "Founders, product builders, and teams shipping full-stack web apps and MVPs rapidly from prompts",
+    "platforms": [
+      "Web"
+    ],
+    "rating": 4.6,
+    "reviewCount": 1840,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": [
+      "lovable.dev",
+      "producthunt.com",
+      "latenode.com",
+      "aipricing.guru"
+    ]
+  },
+  {
+    "slug": "manus",
+    "name": "Manus",
+    "tagline": "Autonomous cloud AI agent for multi-step web research, coding, and workflow execution",
+    "description": "Manus executes complex, multi-step tasks autonomously in a cloud environment—spanning deep web research, data analysis, slide generation, and website deployment—under a credit-based subscription.",
+    "category": "General AI Assistant",
+    "officialUrl": "https://manus.im",
+    "pricingModel": "Freemium (Credit-Based)",
+    "startingPrice": "$20/mo",
+    "startingPriceNumber": 20,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "300 daily-refresh credits (max 1,500/mo)",
+        "highlights": [
+          "Manus Lite powered Agent Mode",
+          "1 concurrent task & up to 2 scheduled automations",
+          "Basic chat and lightweight agent workflows"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$20/mo",
+        "billingNote": "~17% off annual (~$16.67/mo); 4,000 credits/mo",
+        "highlights": [
+          "Full Manus standard/Max autonomous agent execution",
+          "Up to 20 concurrent tasks & 20 scheduled automations",
+          "Deep web research, website deployment & slide generation"
+        ]
+      },
+      {
+        "name": "Extended Pro",
+        "price": "$40–$200/mo",
+        "billingNote": "Scales linearly from 8,000 to 40,000 credits/mo",
+        "highlights": [
+          "High-volume monthly agent credit pools",
+          "Cloud Computer environment on higher tiers",
+          "Early beta access & priority support"
+        ]
+      },
+      {
+        "name": "Team",
+        "price": "$20/user/mo",
+        "billingNote": "~$200/user/yr annual; 4,000 pooled credits/seat",
+        "highlights": [
+          "Shared team credit pool & add-on packs",
+          "Admin controls, usage analytics & training opt-out",
+          "SSO and shared slide/asset templates"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Autonomous multi-step browser, research, and code execution",
+      "Up to 20 concurrent tasks and 20 scheduled automations on Pro",
+      "Automated website deployment, structured data, and slide creation",
+      "Pooled team credits with admin analytics and SSO",
+      "Daily-refresh free credits to test Manus Lite agent workflows"
+    ],
+    "pros": [
+      "Handles long-horizon multi-step research and execution autonomously",
+      "Generous 300 daily-refresh free credits for lightweight testing",
+      "Supports concurrent tasks and recurring scheduled automations"
+    ],
+    "cons": [
+      "No upfront per-prompt credit cost estimate before running complex loops",
+      "Monthly plan credits expire at renewal without rollover",
+      "Cloud sandbox execution can stall on heavily gated or complex sites"
+    ],
+    "bestFor": "Analysts, operators, and builders delegating autonomous multi-step web research and deliverables",
+    "platforms": [
+      "Web"
+    ],
+    "rating": 4.5,
+    "reviewCount": 1420,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": [
+      "manus.im",
+      "producthunt.com",
+      "usecarly.com",
+      "layer3labs.io"
+    ]
+  },
+  {
+    "slug": "anytype",
+    "name": "Anytype",
+    "tagline": "Local-first, end-to-end encrypted open-source workspace and knowledge base",
+    "description": "Anytype combines Notion-style relational objects and wikis with local-first storage, peer-to-peer device sync, and zero-knowledge end-to-end encryption.",
+    "category": "Workspace & Knowledge Base",
+    "officialUrl": "https://anytype.io",
+    "pricingModel": "Freemium (Open Source + Storage Tiers)",
+    "startingPrice": "$4/mo",
+    "startingPriceNumber": 4,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Unlimited local storage + 100 MB remote backup",
+        "highlights": [
+          "Local-first zero-knowledge E2EE spaces & P2P sync",
+          "Unlimited private spaces & 10 shared channels",
+          "Open-source apps on macOS, Windows, Linux, iOS & Android"
+        ]
+      },
+      {
+        "name": "Plus",
+        "price": "$4/mo",
+        "billingNote": "Billed annually ($5/mo monthly); 1 GB remote storage",
+        "highlights": [
+          "1 GB encrypted remote cloud backup",
+          "Unlimited shared channels",
+          "Custom ANY ID handle (9+ symbols)"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$8/mo",
+        "billingNote": "Billed annually ($10/mo monthly); 10 GB remote storage",
+        "highlights": [
+          "10 GB encrypted remote cloud backup",
+          "Shorter custom ANY ID handle (7+ symbols)",
+          "Ultra tier available at $16/mo annual for 100 GB"
+        ]
+      },
+      {
+        "name": "Business",
+        "price": "$20/user/mo",
+        "billingNote": "Or $300/mo for full self-hosted deployment",
+        "highlights": [
+          "Admin panels & Single Sign-On (SSO)",
+          "Self-hosted coordinator and sync node option",
+          "Organization governance with E2EE privacy"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Zero-knowledge end-to-end encryption with local-first data ownership",
+      "Peer-to-peer direct device sync plus optional encrypted cloud backup",
+      "Typed objects, relations, sets, and graph views for knowledge management",
+      "Open-source codebase with self-hosting support for teams",
+      "Native offline desktop and mobile apps across all major OSes"
+    ],
+    "pros": [
+      "True offline local-first ownership with zero-knowledge E2EE",
+      "Unlimited local usage on the free tier with P2P sync",
+      "Open-source and self-hostable for privacy-strict teams"
+    ],
+    "cons": [
+      "Object-and-relation mental model has a steeper learning curve than Notion",
+      "Real-time multi-user collaboration is less mature than cloud-native suites",
+      "Free remote cloud backup is capped at 100 MB"
+    ],
+    "bestFor": "Privacy-conscious knowledge workers, researchers, and teams wanting an offline-first Notion alternative",
+    "platforms": [
+      "macOS",
+      "Windows",
+      "Linux",
+      "iOS",
+      "Android"
+    ],
+    "rating": 4.6,
+    "reviewCount": 1650,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-22",
+    "sources": [
+      "anytype.io",
+      "alternativeto.net",
+      "checkthat.ai",
+      "saasradar.fr"
+    ]
   }
 ]
