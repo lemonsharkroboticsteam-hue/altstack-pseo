@@ -6,7 +6,7 @@ export const SITE_DESCRIPTION =
 
 export function getSiteUrl(): string {
   const raw =
-    process.env.NEXT_PUBLIC_SITE_URL?.trim() || "https://altstack.vercel.app";
+    process.env.NEXT_PUBLIC_SITE_URL?.trim() || "https://altstack.pages.dev";
   return raw.replace(/\/+$/, "");
 }
 

@@ -56,7 +56,7 @@ export function AdSenseSlot({ variant, slotId }: AdSenseSlotProps) {
         <code className="rounded bg-slate-200/80 px-1 py-0.5 text-[10px]">
           NEXT_PUBLIC_ADSENSE_CLIENT_ID
         </code>{" "}
-        in Vercel to activate live ads.
+        in Cloudflare Pages to activate live ads.
       </p>
     </aside>
   );
