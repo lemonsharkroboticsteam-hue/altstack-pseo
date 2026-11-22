@@ -47,12 +47,12 @@ function main() {
     if (remoteUrl) {
       run("git", ["push", "origin", "main"]);
       console.log(
-        "✓ Pushed updated pSEO pages to GitHub origin/main (triggers Cloudflare Pages auto-build)."
+        "✓ Pushed updated pSEO pages to GitHub origin/main (triggers Cloudflare auto-build)."
       );
     }
   } catch {
     console.log(
-      "Local commit succeeded. No GitHub 'origin' remote is configured yet—attach a remote to auto-push to Cloudflare Pages."
+      "Local commit succeeded. No GitHub 'origin' remote is configured yet—attach a remote to auto-push to Cloudflare."
     );
   }
 }

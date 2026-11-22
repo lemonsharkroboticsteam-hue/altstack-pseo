@@ -1,6 +1,6 @@
-# AltStack — 全自动 AI 与效率软件 pSEO 网站（Cloudflare Pages 纯静态版）
+# AltStack — 全自动 AI 与效率软件 pSEO 网站（Cloudflare Workers 静态托管 / Pages 版）
 
-零数据库、零服务器费用的程序化 SEO（pSEO）网站，基于 **Next.js (App Router `output: "export"`) + Tailwind CSS + 本地 JSON 静态生成** 构建，直接导出纯静态 `out/` 文件夹部署到 **Cloudflare Pages**。
+零数据库、零服务器费用的程序化 SEO（pSEO）网站，基于 **Next.js (App Router `output: "export"`) + Tailwind CSS + 本地 JSON 静态生成** 构建，通过 `wrangler.jsonc` 将导出的纯静态 `out/` 文件夹部署到 **Cloudflare Workers Static Assets**（或 Cloudflare Pages）。
 
 ---
 
@@ -14,17 +14,18 @@
 
 ---
 
-## 2. Cloudflare Pages 部署配置参数
+## 2. Cloudflare Workers 静态托管配置参数（`wrangler.jsonc`）
 
-绑定 GitHub 仓库后，在 Cloudflare Pages 构建设置填写：
+项目根目录已配置 `wrangler.jsonc`（指向 `./out` 静态目录）。绑定 GitHub 仓库后，在 Cloudflare **Workers & Pages -> Settings -> Build** 填写：
 
-- **Framework preset**：`Next.js (Static HTML Export)`（或 `None`）
-- **Build command**：`npm run build`
-- **Build output directory**：`out`
-- **Environment variables（环境变量）**：
-  - `NODE_VERSION` = `22`（项目已内置 `.nvmrc` 为 `22`，显式配置更稳妥）
-  - `NEXT_PUBLIC_SITE_URL` = `https://你的域名.pages.dev`（或自定义域名）
+- **Build command（构建命令）**：`npm run build`
+- **Deploy command（部署命令）**：`npx wrangler deploy`
+- **Environment variables / Variables and Secrets（环境变量）**：
+  - `NODE_VERSION` = `22`（项目已内置 `.nvmrc` 为 `22`）
+  - `NEXT_PUBLIC_SITE_URL` = `https://你的域名.workers.dev`（或自定义域名）
   - `NEXT_PUBLIC_ADSENSE_CLIENT_ID` = `ca-pub-你的AdSenseID`（拿到审核 ID 后填写）
+
+*(注：若改用 Cloudflare Pages，Build command 填 `npm run build`，Build output directory 填 `out` 即可。)*
 
 ---
 
