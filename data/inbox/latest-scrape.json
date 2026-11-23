@@ -1,245 +1,245 @@
 {
   "sources": [
-    "browser-subagent:producthunt.com (BROWSER_TOOL_UNAVAILABLE: conversation is not open in any Hub window)",
-    "browser-subagent:alternativeto.net (BROWSER_TOOL_UNAVAILABLE: conversation is not open in any Hub window)",
+    "browser-subagent:producthunt.com (BLOCKED / UNSUPPORTED_CAPABILITY: webview_browser lacks Playwright page.route() / request interception required by the bandwidth-saving rule; 0 origins visited)",
+    "browser-subagent:alternativeto.net (BLOCKED / UNSUPPORTED_CAPABILITY: webview_browser lacks Playwright page.route() / request interception required by the bandwidth-saving rule; 0 origins visited)",
     "web-search:producthunt.com",
     "web-search:alternativeto.net",
-    "web-search:lovable.dev",
-    "web-search:manus.im",
-    "web-search:anytype.io"
+    "web-search:cline.bot",
+    "web-search:notebook.google.com",
+    "web-search:wisprflow.ai"
   ],
-  "notes": "12-hour bandwidth-saving pSEO run. Browser subagent (flash) failed with BROWSER_TOOL_UNAVAILABLE (conversation is not open in any Hub window) on producthunt.com and alternativeto.net; supplemented trending discovery, official pricing tiers, features, pros, cons, and alternatives via live web search.",
+  "notes": "12-hour bandwidth-saving pSEO run. Browser subagent (flash) stopped prior to navigation with BLOCKED / UNSUPPORTED_CAPABILITY because webview_browser does not support Playwright route interception (page.route) to block image, stylesheet, font, media, and analytics/ad requests. Supplemented trending discovery, official pricing tiers, features, pros, cons, and top alternatives via verified public web search.",
   "tools": [
     {
-      "slug": "lovable",
-      "name": "Lovable",
-      "tagline": "AI full-stack web app builder for shipping production React and Supabase apps from natural language",
-      "description": "Lovable turns natural language prompts into full-stack web applications with built-in cloud hosting, databases, code export, and unlimited workspace collaborators sharing a credit pool.",
+      "slug": "cline",
+      "name": "Cline",
+      "tagline": "Open-source autonomous AI coding agent for VS Code, JetBrains, and CLI with Plan & Act modes and BYOK support",
+      "description": "Cline is an open-source (Apache 2.0) autonomous AI coding agent that plans and executes multi-file edits, terminal commands, and MCP tool calls inside your IDE with human-in-the-loop approvals, automatic shadow-Git checkpoints, and Bring-Your-Own-Key model flexibility.",
       "category": "AI Coding & IDE",
-      "officialUrl": "https://lovable.dev",
-      "pricingModel": "Freemium (Credit-Based)",
-      "startingPrice": "$25/mo",
-      "startingPriceNumber": 25,
+      "officialUrl": "https://cline.bot",
+      "pricingModel": "Open Source (BYOK) + Optional Subscription",
+      "startingPrice": "$9.99/mo",
+      "startingPriceNumber": 9.99,
       "hasFreeTier": true,
       "pricingTiers": [
         {
-          "name": "Free",
+          "name": "Open Source (BYOK)",
           "price": "$0",
-          "billingNote": "5 daily credits (capped at ~30/mo)",
+          "billingNote": "Apache 2.0 extension; pay API providers directly for tokens",
           "highlights": [
-            "5 daily build credits resetting at 00:00 UTC",
-            "Public projects hosted on a lovable.app subdomain",
-            "20 monthly Cloud credits & unlimited collaborators"
+            "Full Plan & Act autonomous agent inside VS Code, JetBrains, and CLI",
+            "Bring Your Own Key (Anthropic, OpenAI, Gemini, OpenRouter, Ollama)",
+            "Automatic shadow-Git checkpoints and MCP extensibility"
           ]
         },
         {
-          "name": "Pro",
-          "price": "$25/mo",
-          "billingNote": "$250/yr billed annually (~$21/mo); 100+ credits/mo",
+          "name": "ClinePass",
+          "price": "$9.99/mo",
+          "billingNote": "Optional flat-rate open-weight model bundle",
           "highlights": [
-            "100 to 10,000 monthly general credits via tier selector",
-            "Private projects, custom domains & full code export",
-            "2-month credit rollover, top-ups & branding removal"
+            "Bundled quotas for open-weight coding models (DeepSeek, Qwen, GLM, Kimi)",
+            "5-hour, weekly, and monthly quota windows without juggling API keys",
+            "No per-token surprises for everyday coding workflows"
           ]
         },
         {
-          "name": "Business",
-          "price": "$50/mo",
-          "billingNote": "$500/yr billed annually (~$42/mo); 100+ credits/mo",
+          "name": "Teams",
+          "price": "$20/user/mo",
+          "billingNote": "Free permanently for the first 10 seats",
           "highlights": [
-            "Single Sign-On (SSO) & dedicated security center",
-            "Default opt-out from AI model training",
-            "Exclusive design templates & workspace controls"
+            "Centralized team billing and usage management",
+            "Role-based access control (RBAC)",
+            "Organization-wide governance policies"
           ]
         },
         {
           "name": "Enterprise",
           "price": "Custom",
-          "billingNote": "Annual volume-based contract",
+          "billingNote": "Annual sales quote",
           "highlights": [
-            "SCIM provisioning & audit logs",
-            "Data residency & EU inference options",
-            "Dedicated Customer Success Manager"
+            "Single Sign-On (SSO) and audit logs",
+            "Custom SLAs and dedicated support",
+            "VPC or on-premise deployment options"
           ]
         }
       ],
       "keyFeatures": [
-        "Prompt-to-full-stack React and cloud backend generation",
-        "Lovable Cloud built-in hosting, database, and AI feature credits",
-        "No per-seat fee with unlimited workspace collaborators",
-        "Code editing access, GitHub sync, and full code export",
-        "11 scalable monthly credit tiers from 100 to 10,000 credits"
+        "Two-step Plan and Act modes for safer multi-file code execution",
+        "Model-agnostic architecture supporting cloud APIs and local Ollama models",
+        "Shadow-Git automatic checkpoints for instant rollback of agent changes",
+        "Granular human-in-the-loop command and file-edit approvals",
+        "Native Model Context Protocol (MCP) and browser/terminal automation"
       ],
       "pros": [
-        "Fast prompt-to-live-app prototyping with clean UI defaults",
-        "All plans support unlimited workspace members sharing one credit pool",
-        "Paid Pro credits roll over for up to two months while active"
+        "Zero vendor lock-in with full BYOK and local model support",
+        "Transparent pay-as-you-go token pricing plus $9.99/mo ClinePass option",
+        "Open-source Apache 2.0 licensing with automatic rollback checkpoints"
       ],
       "cons": [
-        "Complex debugging loops can burn through monthly credits quickly",
-        "Free tier is limited to 5 daily credits on public projects",
-        "Large generated codebases eventually require manual developer refactoring"
+        "Requires API key setup and monitoring unless using ClinePass",
+        "Long multi-file agent loops can burn API tokens rapidly if unchecked",
+        "Runs directly in your local environment rather than a remote VM by default"
       ],
-      "bestFor": "Founders, product builders, and teams shipping full-stack web apps and MVPs rapidly from prompts",
-      "platforms": ["Web"],
-      "rating": 4.6,
-      "reviewCount": 1840,
+      "bestFor": "Developers wanting an open-source, model-agnostic coding agent inside VS Code or JetBrains without IDE lock-in",
+      "platforms": ["VS Code", "JetBrains", "CLI", "macOS", "Windows", "Linux"],
+      "rating": 4.7,
+      "reviewCount": 2150,
       "isFlagship": true,
-      "sources": ["lovable.dev", "producthunt.com", "latenode.com", "aipricing.guru"]
+      "sources": ["cline.bot", "alternativeto.net", "morphllm.com", "checkthat.ai"]
     },
     {
-      "slug": "manus",
-      "name": "Manus",
-      "tagline": "Autonomous cloud AI agent for multi-step web research, coding, and workflow execution",
-      "description": "Manus executes complex, multi-step tasks autonomously in a cloud environment—spanning deep web research, data analysis, slide generation, and website deployment—under a credit-based subscription.",
-      "category": "General AI Assistant",
-      "officialUrl": "https://manus.im",
-      "pricingModel": "Freemium (Credit-Based)",
-      "startingPrice": "$20/mo",
-      "startingPriceNumber": 20,
+      "slug": "notebooklm",
+      "name": "NotebookLM",
+      "tagline": "Source-grounded AI research workspace for analyzing PDFs, docs, and media with Audio Overviews",
+      "description": "NotebookLM (also branded as Gemini Notebook) grounds AI Q&A, citations, mind maps, and podcast-style Audio and Video Overviews strictly in your uploaded PDFs, Google Docs, web links, and transcripts.",
+      "category": "AI Search & Research",
+      "officialUrl": "https://notebook.google.com",
+      "pricingModel": "Freemium (Bundled with Google AI Plans)",
+      "startingPrice": "$4.99/mo",
+      "startingPriceNumber": 4.99,
       "hasFreeTier": true,
       "pricingTiers": [
         {
           "name": "Free",
           "price": "$0",
-          "billingNote": "300 daily-refresh credits (max 1,500/mo)",
+          "billingNote": "Included with a standard Google account",
           "highlights": [
-            "Manus Lite powered Agent Mode",
-            "1 concurrent task & up to 2 scheduled automations",
-            "Basic chat and lightweight agent workflows"
+            "Up to 100 notebooks and 50 sources per notebook",
+            "50 queries/day and ~3 Audio/Video Overviews per day",
+            "Inline citations, Mind Maps, and source-grounded chat"
           ]
         },
         {
-          "name": "Pro",
-          "price": "$20/mo",
-          "billingNote": "~17% off annual (~$16.67/mo); 4,000 credits/mo",
+          "name": "Google AI Plus",
+          "price": "$4.99/mo",
+          "billingNote": "Bundled with Google One / Google AI Plus",
           "highlights": [
-            "Full Manus standard/Max autonomous agent execution",
-            "Up to 20 concurrent tasks & 20 scheduled automations",
-            "Deep web research, website deployment & slide generation"
+            "200 notebooks and 100 sources per notebook",
+            "200 daily queries and ~6 Audio/Video Overviews per day",
+            "Bundled Google ecosystem storage and AI perks"
           ]
         },
         {
-          "name": "Extended Pro",
-          "price": "$40–$200/mo",
-          "billingNote": "Scales linearly from 8,000 to 40,000 credits/mo",
+          "name": "Google AI Pro",
+          "price": "$19.99/mo",
+          "billingNote": "~$199/yr annual option; bundled with Google AI Pro",
           "highlights": [
-            "High-volume monthly agent credit pools",
-            "Cloud Computer environment on higher tiers",
-            "Early beta access & priority support"
+            "500 notebooks and 300 sources per notebook",
+            "500 daily queries and ~20 Audio/Video Overviews per day",
+            "Custom chat styles (Analyst, Guide) and chat-only sharing"
           ]
         },
         {
-          "name": "Team",
-          "price": "$20/user/mo",
-          "billingNote": "~$200/user/yr annual; 4,000 pooled credits/seat",
+          "name": "Google AI Ultra",
+          "price": "$99.99–$199.99/mo",
+          "billingNote": "High-capacity research & Gemini tier",
           "highlights": [
-            "Shared team credit pool & add-on packs",
-            "Admin controls, usage analytics & training opt-out",
-            "SSO and shared slide/asset templates"
+            "500 notebooks and 500–600 sources per notebook",
+            "2,500–5,000 daily queries and 100+ daily Audio/Video Overviews",
+            "Maximum quota headroom for heavy research teams"
           ]
         }
       ],
       "keyFeatures": [
-        "Autonomous multi-step browser, research, and code execution",
-        "Up to 20 concurrent tasks and 20 scheduled automations on Pro",
-        "Automated website deployment, structured data, and slide creation",
-        "Pooled team credits with admin analytics and SSO",
-        "Daily-refresh free credits to test Manus Lite agent workflows"
+        "Strict source-grounded chat with inline citations back to uploaded documents",
+        "One-click Studio Audio Overviews and Video Overviews from your research",
+        "Interactive Mind Maps and structured study/briefing guides",
+        "Supports up to 500,000 words per source across PDFs, Docs, YouTube, and URLs",
+        "Same underlying model intelligence across Free and paid capacity tiers"
       ],
       "pros": [
-        "Handles long-horizon multi-step research and execution autonomously",
-        "Generous 300 daily-refresh free credits for lightweight testing",
-        "Supports concurrent tasks and recurring scheduled automations"
+        "Extremely generous free tier with 100 notebooks and Audio Overviews",
+        "Dramatically reduces hallucinations by anchoring answers to user sources",
+        "Paid tiers bundle broader Google One storage and Gemini Pro access"
       ],
       "cons": [
-        "No upfront per-prompt credit cost estimate before running complex loops",
-        "Monthly plan credits expire at renewal without rollover",
-        "Cloud sandbox execution can stall on heavily gated or complex sites"
+        "Cannot be purchased standalone without a Google AI / Google One plan",
+        "Rolling usage windows and tier names shift periodically",
+        "Cloud-hosted on Google infrastructure rather than local-only storage"
       ],
-      "bestFor": "Analysts, operators, and builders delegating autonomous multi-step web research and deliverables",
-      "platforms": ["Web"],
-      "rating": 4.5,
-      "reviewCount": 1420,
+      "bestFor": "Researchers, students, analysts, and writers synthesizing large collections of PDFs, docs, and transcripts",
+      "platforms": ["Web", "iOS", "Android"],
+      "rating": 4.8,
+      "reviewCount": 3100,
       "isFlagship": true,
-      "sources": ["manus.im", "producthunt.com", "usecarly.com", "layer3labs.io"]
+      "sources": ["notebook.google.com", "alternativeto.net", "sourclip.com", "nlmtools.com"]
     },
     {
-      "slug": "anytype",
-      "name": "Anytype",
-      "tagline": "Local-first, end-to-end encrypted open-source workspace and knowledge base",
-      "description": "Anytype combines Notion-style relational objects and wikis with local-first storage, peer-to-peer device sync, and zero-knowledge end-to-end encryption.",
-      "category": "Workspace & Knowledge Base",
-      "officialUrl": "https://anytype.io",
-      "pricingModel": "Freemium (Open Source + Storage Tiers)",
-      "startingPrice": "$4/mo",
-      "startingPriceNumber": 4,
+      "slug": "wispr-flow",
+      "name": "Wispr Flow",
+      "tagline": "System-wide AI voice dictation and command tool that turns speech into polished writing in any app",
+      "description": "Wispr Flow replaces slow typing with context-aware AI dictation across macOS, Windows, iOS, and Android—automatically removing filler words, formatting prose, and applying voice-triggered edits inside any app.",
+      "category": "AI Writing & Marketing",
+      "officialUrl": "https://wisprflow.ai",
+      "pricingModel": "Freemium (Subscription)",
+      "startingPrice": "$12/mo",
+      "startingPriceNumber": 12,
       "hasFreeTier": true,
       "pricingTiers": [
         {
           "name": "Free",
           "price": "$0",
-          "billingNote": "Unlimited local storage + 100 MB remote backup",
+          "billingNote": "Capped at ~2,000 words per week on desktop",
           "highlights": [
-            "Local-first zero-knowledge E2EE spaces & P2P sync",
-            "Unlimited private spaces & 10 shared channels",
-            "Open-source apps on macOS, Windows, Linux, iOS & Android"
-          ]
-        },
-        {
-          "name": "Plus",
-          "price": "$4/mo",
-          "billingNote": "Billed annually ($5/mo monthly); 1 GB remote storage",
-          "highlights": [
-            "1 GB encrypted remote cloud backup",
-            "Unlimited shared channels",
-            "Custom ANY ID handle (9+ symbols)"
+            "System-wide dictation across 100+ languages",
+            "Automatic filler-word removal and smart formatting",
+            "Custom dictionary, snippets, and Privacy Mode"
           ]
         },
         {
           "name": "Pro",
-          "price": "$8/mo",
-          "billingNote": "Billed annually ($10/mo monthly); 10 GB remote storage",
+          "price": "$12/mo",
+          "billingNote": "$144 billed annually ($15/mo billed monthly)",
           "highlights": [
-            "10 GB encrypted remote cloud backup",
-            "Shorter custom ANY ID handle (7+ symbols)",
-            "Ultra tier available at $16/mo annual for 100 GB"
+            "Unlimited dictation across macOS, Windows, iOS, and Android",
+            "AI Command Mode for voice-triggered text rewriting and editing",
+            "Priority cloud processing and extended AI Notetaker storage"
           ]
         },
         {
-          "name": "Business",
-          "price": "$20/user/mo",
-          "billingNote": "Or $300/mo for full self-hosted deployment",
+          "name": "Growth",
+          "price": "$23–$33/user/mo",
+          "billingNote": "Annual/monthly team billing ($216–$312/user/yr)",
           "highlights": [
-            "Admin panels & Single Sign-On (SSO)",
-            "Self-hosted coordinator and sync node option",
-            "Organization governance with E2EE privacy"
+            "Shared team dictionaries and workspace controls",
+            "SAML Single Sign-On (SSO)",
+            "HIPAA-ready compliance options and optional AI Notetaker bundle"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": "Custom",
+          "billingNote": "Custom annual contract",
+          "highlights": [
+            "SCIM provisioning and MDM deployment",
+            "Audit logs and custom BAA/legal terms",
+            "Dedicated enterprise onboarding and support"
           ]
         }
       ],
       "keyFeatures": [
-        "Zero-knowledge end-to-end encryption with local-first data ownership",
-        "Peer-to-peer direct device sync plus optional encrypted cloud backup",
-        "Typed objects, relations, sets, and graph views for knowledge management",
-        "Open-source codebase with self-hosting support for teams",
-        "Native offline desktop and mobile apps across all major OSes"
+        "System-wide hotkey dictation into Slack, Notion, email, and IDEs",
+        "Automatic filler-word cleanup, punctuation, and tone-aware formatting",
+        "AI Command Mode to highlight and rewrite or translate text by voice",
+        "Active-window context awareness and custom jargon dictionary",
+        "Built-in AI Notetaker alongside 100+ supported spoken languages"
       ],
       "pros": [
-        "True offline local-first ownership with zero-knowledge E2EE",
-        "Unlimited local usage on the free tier with P2P sync",
-        "Open-source and self-hostable for privacy-strict teams"
+        "Produces send-ready prose from natural, unstructured speech",
+        "Fast, low-latency cross-platform sync across desktop and mobile",
+        "Recognizes technical jargon and 100+ languages accurately"
       ],
       "cons": [
-        "Object-and-relation mental model has a steeper learning curve than Notion",
-        "Real-time multi-user collaboration is less mature than cloud-native suites",
-        "Free remote cloud backup is capped at 100 MB"
+        "Requires cloud audio processing with no fully offline/local Whisper mode",
+        "2,000-word weekly free cap runs out quickly for daily writers",
+        "Subscription-only pricing with no one-time lifetime license"
       ],
-      "bestFor": "Privacy-conscious knowledge workers, researchers, and teams wanting an offline-first Notion alternative",
-      "platforms": ["macOS", "Windows", "Linux", "iOS", "Android"],
-      "rating": 4.6,
-      "reviewCount": 1650,
+      "bestFor": "Founders, writers, and operators drafting emails, docs, and prompts 3x faster by voice across every app",
+      "platforms": ["macOS", "Windows", "iOS", "Android"],
+      "rating": 4.7,
+      "reviewCount": 1920,
       "isFlagship": true,
-      "sources": ["anytype.io", "alternativeto.net", "checkthat.ai", "saasradar.fr"]
+      "sources": ["wisprflow.ai", "producthunt.com", "dictop.com", "vowen.ai"]
     }
   ]
 }

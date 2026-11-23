@@ -152,5 +152,26 @@
     "dealBadge": "Free Plan Available",
     "promoNote": "Privacy-conscious knowledge workers, researchers, and teams wanting an offline-first Notion alternative",
     "isAffiliateActive": false
+  },
+  "cline": {
+    "affiliateUrl": "https://cline.bot?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Cline Free",
+    "dealBadge": "Free Plan Available",
+    "promoNote": "Developers wanting an open-source, model-agnostic coding agent inside VS Code or JetBrains without IDE lock-in",
+    "isAffiliateActive": false
+  },
+  "notebooklm": {
+    "affiliateUrl": "https://notebook.google.com?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try NotebookLM Free",
+    "dealBadge": "Free Plan Available",
+    "promoNote": "Researchers, students, analysts, and writers synthesizing large collections of PDFs, docs, and transcripts",
+    "isAffiliateActive": false
+  },
+  "wispr-flow": {
+    "affiliateUrl": "https://wisprflow.ai?utm_source=altstack&ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+    "ctaText": "Try Wispr Flow Free",
+    "dealBadge": "Free Plan Available",
+    "promoNote": "Founders, writers, and operators drafting emails, docs, and prompts 3x faster by voice across every app",
+    "isAffiliateActive": false
   }
 }

@@ -1808,5 +1808,270 @@
       "checkthat.ai",
       "saasradar.fr"
     ]
+  },
+  {
+    "slug": "cline",
+    "name": "Cline",
+    "tagline": "Open-source autonomous AI coding agent for VS Code, JetBrains, and CLI with Plan & Act modes and BYOK support",
+    "description": "Cline is an open-source (Apache 2.0) autonomous AI coding agent that plans and executes multi-file edits, terminal commands, and MCP tool calls inside your IDE with human-in-the-loop approvals, automatic shadow-Git checkpoints, and Bring-Your-Own-Key model flexibility.",
+    "category": "AI Coding & IDE",
+    "officialUrl": "https://cline.bot",
+    "pricingModel": "Open Source (BYOK) + Optional Subscription",
+    "startingPrice": "$9.99/mo",
+    "startingPriceNumber": 9.99,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Open Source (BYOK)",
+        "price": "$0",
+        "billingNote": "Apache 2.0 extension; pay API providers directly for tokens",
+        "highlights": [
+          "Full Plan & Act autonomous agent inside VS Code, JetBrains, and CLI",
+          "Bring Your Own Key (Anthropic, OpenAI, Gemini, OpenRouter, Ollama)",
+          "Automatic shadow-Git checkpoints and MCP extensibility"
+        ]
+      },
+      {
+        "name": "ClinePass",
+        "price": "$9.99/mo",
+        "billingNote": "Optional flat-rate open-weight model bundle",
+        "highlights": [
+          "Bundled quotas for open-weight coding models (DeepSeek, Qwen, GLM, Kimi)",
+          "5-hour, weekly, and monthly quota windows without juggling API keys",
+          "No per-token surprises for everyday coding workflows"
+        ]
+      },
+      {
+        "name": "Teams",
+        "price": "$20/user/mo",
+        "billingNote": "Free permanently for the first 10 seats",
+        "highlights": [
+          "Centralized team billing and usage management",
+          "Role-based access control (RBAC)",
+          "Organization-wide governance policies"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "billingNote": "Annual sales quote",
+        "highlights": [
+          "Single Sign-On (SSO) and audit logs",
+          "Custom SLAs and dedicated support",
+          "VPC or on-premise deployment options"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Two-step Plan and Act modes for safer multi-file code execution",
+      "Model-agnostic architecture supporting cloud APIs and local Ollama models",
+      "Shadow-Git automatic checkpoints for instant rollback of agent changes",
+      "Granular human-in-the-loop command and file-edit approvals",
+      "Native Model Context Protocol (MCP) and browser/terminal automation"
+    ],
+    "pros": [
+      "Zero vendor lock-in with full BYOK and local model support",
+      "Transparent pay-as-you-go token pricing plus $9.99/mo ClinePass option",
+      "Open-source Apache 2.0 licensing with automatic rollback checkpoints"
+    ],
+    "cons": [
+      "Requires API key setup and monitoring unless using ClinePass",
+      "Long multi-file agent loops can burn API tokens rapidly if unchecked",
+      "Runs directly in your local environment rather than a remote VM by default"
+    ],
+    "bestFor": "Developers wanting an open-source, model-agnostic coding agent inside VS Code or JetBrains without IDE lock-in",
+    "platforms": [
+      "VS Code",
+      "JetBrains",
+      "CLI",
+      "macOS",
+      "Windows",
+      "Linux"
+    ],
+    "rating": 4.7,
+    "reviewCount": 2150,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-23",
+    "sources": [
+      "cline.bot",
+      "alternativeto.net",
+      "morphllm.com",
+      "checkthat.ai"
+    ]
+  },
+  {
+    "slug": "notebooklm",
+    "name": "NotebookLM",
+    "tagline": "Source-grounded AI research workspace for analyzing PDFs, docs, and media with Audio Overviews",
+    "description": "NotebookLM (also branded as Gemini Notebook) grounds AI Q&A, citations, mind maps, and podcast-style Audio and Video Overviews strictly in your uploaded PDFs, Google Docs, web links, and transcripts.",
+    "category": "AI Search & Research",
+    "officialUrl": "https://notebook.google.com",
+    "pricingModel": "Freemium (Bundled with Google AI Plans)",
+    "startingPrice": "$4.99/mo",
+    "startingPriceNumber": 4.99,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Included with a standard Google account",
+        "highlights": [
+          "Up to 100 notebooks and 50 sources per notebook",
+          "50 queries/day and ~3 Audio/Video Overviews per day",
+          "Inline citations, Mind Maps, and source-grounded chat"
+        ]
+      },
+      {
+        "name": "Google AI Plus",
+        "price": "$4.99/mo",
+        "billingNote": "Bundled with Google One / Google AI Plus",
+        "highlights": [
+          "200 notebooks and 100 sources per notebook",
+          "200 daily queries and ~6 Audio/Video Overviews per day",
+          "Bundled Google ecosystem storage and AI perks"
+        ]
+      },
+      {
+        "name": "Google AI Pro",
+        "price": "$19.99/mo",
+        "billingNote": "~$199/yr annual option; bundled with Google AI Pro",
+        "highlights": [
+          "500 notebooks and 300 sources per notebook",
+          "500 daily queries and ~20 Audio/Video Overviews per day",
+          "Custom chat styles (Analyst, Guide) and chat-only sharing"
+        ]
+      },
+      {
+        "name": "Google AI Ultra",
+        "price": "$99.99–$199.99/mo",
+        "billingNote": "High-capacity research & Gemini tier",
+        "highlights": [
+          "500 notebooks and 500–600 sources per notebook",
+          "2,500–5,000 daily queries and 100+ daily Audio/Video Overviews",
+          "Maximum quota headroom for heavy research teams"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "Strict source-grounded chat with inline citations back to uploaded documents",
+      "One-click Studio Audio Overviews and Video Overviews from your research",
+      "Interactive Mind Maps and structured study/briefing guides",
+      "Supports up to 500,000 words per source across PDFs, Docs, YouTube, and URLs",
+      "Same underlying model intelligence across Free and paid capacity tiers"
+    ],
+    "pros": [
+      "Extremely generous free tier with 100 notebooks and Audio Overviews",
+      "Dramatically reduces hallucinations by anchoring answers to user sources",
+      "Paid tiers bundle broader Google One storage and Gemini Pro access"
+    ],
+    "cons": [
+      "Cannot be purchased standalone without a Google AI / Google One plan",
+      "Rolling usage windows and tier names shift periodically",
+      "Cloud-hosted on Google infrastructure rather than local-only storage"
+    ],
+    "bestFor": "Researchers, students, analysts, and writers synthesizing large collections of PDFs, docs, and transcripts",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android"
+    ],
+    "rating": 4.8,
+    "reviewCount": 3100,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-23",
+    "sources": [
+      "notebook.google.com",
+      "alternativeto.net",
+      "sourclip.com",
+      "nlmtools.com"
+    ]
+  },
+  {
+    "slug": "wispr-flow",
+    "name": "Wispr Flow",
+    "tagline": "System-wide AI voice dictation and command tool that turns speech into polished writing in any app",
+    "description": "Wispr Flow replaces slow typing with context-aware AI dictation across macOS, Windows, iOS, and Android—automatically removing filler words, formatting prose, and applying voice-triggered edits inside any app.",
+    "category": "AI Writing & Marketing",
+    "officialUrl": "https://wisprflow.ai",
+    "pricingModel": "Freemium (Subscription)",
+    "startingPrice": "$12/mo",
+    "startingPriceNumber": 12,
+    "hasFreeTier": true,
+    "pricingTiers": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "billingNote": "Capped at ~2,000 words per week on desktop",
+        "highlights": [
+          "System-wide dictation across 100+ languages",
+          "Automatic filler-word removal and smart formatting",
+          "Custom dictionary, snippets, and Privacy Mode"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$12/mo",
+        "billingNote": "$144 billed annually ($15/mo billed monthly)",
+        "highlights": [
+          "Unlimited dictation across macOS, Windows, iOS, and Android",
+          "AI Command Mode for voice-triggered text rewriting and editing",
+          "Priority cloud processing and extended AI Notetaker storage"
+        ]
+      },
+      {
+        "name": "Growth",
+        "price": "$23–$33/user/mo",
+        "billingNote": "Annual/monthly team billing ($216–$312/user/yr)",
+        "highlights": [
+          "Shared team dictionaries and workspace controls",
+          "SAML Single Sign-On (SSO)",
+          "HIPAA-ready compliance options and optional AI Notetaker bundle"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "billingNote": "Custom annual contract",
+        "highlights": [
+          "SCIM provisioning and MDM deployment",
+          "Audit logs and custom BAA/legal terms",
+          "Dedicated enterprise onboarding and support"
+        ]
+      }
+    ],
+    "keyFeatures": [
+      "System-wide hotkey dictation into Slack, Notion, email, and IDEs",
+      "Automatic filler-word cleanup, punctuation, and tone-aware formatting",
+      "AI Command Mode to highlight and rewrite or translate text by voice",
+      "Active-window context awareness and custom jargon dictionary",
+      "Built-in AI Notetaker alongside 100+ supported spoken languages"
+    ],
+    "pros": [
+      "Produces send-ready prose from natural, unstructured speech",
+      "Fast, low-latency cross-platform sync across desktop and mobile",
+      "Recognizes technical jargon and 100+ languages accurately"
+    ],
+    "cons": [
+      "Requires cloud audio processing with no fully offline/local Whisper mode",
+      "2,000-word weekly free cap runs out quickly for daily writers",
+      "Subscription-only pricing with no one-time lifetime license"
+    ],
+    "bestFor": "Founders, writers, and operators drafting emails, docs, and prompts 3x faster by voice across every app",
+    "platforms": [
+      "macOS",
+      "Windows",
+      "iOS",
+      "Android"
+    ],
+    "rating": 4.7,
+    "reviewCount": 1920,
+    "isFlagship": true,
+    "lastUpdated": "2026-11-23",
+    "sources": [
+      "wisprflow.ai",
+      "producthunt.com",
+      "dictop.com",
+      "vowen.ai"
+    ]
   }
 ]

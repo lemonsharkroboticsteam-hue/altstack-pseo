@@ -32,5 +32,24 @@
       "web-search:anytype.io"
     ],
     "notes": "12-hour bandwidth-saving pSEO run. Browser subagent (flash) failed with BROWSER_TOOL_UNAVAILABLE (conversation is not open in any Hub window) on producthunt.com and alternativeto.net; supplemented trending discovery, official pricing tiers, features, pros, cons, and alternatives via live web search."
+  },
+  {
+    "runAt": "2026-11-23T01:52:29.550Z",
+    "type": "automated-ingest",
+    "inboxFile": "data/inbox/latest-scrape.json",
+    "addedTools": 3,
+    "updatedTools": 0,
+    "addedAltPages": 3,
+    "addedVsPages": 3,
+    "sources": [
+      "browser-subagent:producthunt.com (BLOCKED / UNSUPPORTED_CAPABILITY: webview_browser lacks Playwright page.route() / request interception required by the bandwidth-saving rule; 0 origins visited)",
+      "browser-subagent:alternativeto.net (BLOCKED / UNSUPPORTED_CAPABILITY: webview_browser lacks Playwright page.route() / request interception required by the bandwidth-saving rule; 0 origins visited)",
+      "web-search:producthunt.com",
+      "web-search:alternativeto.net",
+      "web-search:cline.bot",
+      "web-search:notebook.google.com",
+      "web-search:wisprflow.ai"
+    ],
+    "notes": "12-hour bandwidth-saving pSEO run. Browser subagent (flash) stopped prior to navigation with BLOCKED / UNSUPPORTED_CAPABILITY because webview_browser does not support Playwright route interception (page.route) to block image, stylesheet, font, media, and analytics/ad requests. Supplemented trending discovery, official pricing tiers, features, pros, cons, and top alternatives via verified public web search."
   }
 ]
